@@ -248,7 +248,7 @@ Other human immunodeficiency virus infection -*044
  Causing specified acute infections -*044.0
 " Human immunodeficiency virus infection, unspecified -*044.9"
  Poliomyelitis and other non-arthropod-borne viral diseases of central nervous system 
--045-049
+-94
 Acute poliomyelitis -045
  Acute paralytic poliomyelitis specified as bulbar -045.0
  Acute poliomyelitis with other paralysis -045.1
@@ -412,9 +412,9 @@ Viral infection of unspecified site -079
  Other -079.8
  Unspecified -079.9
  Rickettsioses and other arthropod-borne diseases -080-088
-Louse-borne _1Epidemic typhus -080
+Louse-borne -Epidemic typhus -080
 Other typhus -081
- Murine _1Endemic typhus -081.0
+ Murine -Endemic typhus -081.0
  Brill's disease -081.1
  Scrub typhus -081.2
  Unspecified -081.9
@@ -1750,7 +1750,7 @@ Psychoses with origin specific to childhood -299
  Other -299.8
  Unspecified -299.9
 " Neurotic disorders, personality disorders, and other nonpsychotic mental disorders "
--300-316
+-616
 Neurotic disorders -300
  Anxiety states -300.0
  Hysteria -300.1
@@ -2933,7 +2933,7 @@ Diseases of esophagus -530
  Perforation of esophagus -530.4
  Dyskinesia of esophagus -530.5
 " Diverticulum of esophagus, acquired -530.6"
- Gastro_1Esophageal laceration-hemorrhage syndrome -530.7
+ Gastro-Esophageal laceration-hemorrhage syndrome -530.7
  Other disorders of esophagus -530.8
  Unspecified -530.9
 Gastric ulcer -531
@@ -3548,12 +3548,12 @@ Hemorrhage in early pregnancy -640
 "Hypertension complicating pregnancy, childbirth, and the puerperium -642"
 " Benign essential hypertension complicating pregnancy, childbirth, and the puerperium -642.0"
 " Hypertension secondary to renal disease, complicating pregnancy, childbirth, and the puerperium -642.1"
-" Other pre_1Existing hypertension complicating pregnancy, childbirth, and the puerperium -642.2"
+" Other pre-Existing hypertension complicating pregnancy, childbirth, and the puerperium -642.2"
  Transient hypertension of pregnancy -642.3
- Mild or unspecified pre_1Eclampsia -642.4
- Severe pre_1Eclampsia -642.5
+ Mild or unspecified pre-Eclampsia -642.4
+ Severe pre-Eclampsia -642.5
  Eclampsia -642.6
- Pre_1Eclampsia or eclampsia superimposed on pre_1Existing hypertension -642.7
+ Pre-Eclampsia or eclampsia superimposed on pre-Existing hypertension -642.7
 " Unspecified hypertension complicating pregnancy, childbirth, and the puerperium -642.9"
 Excessive vomiting in pregnancy -643
 Early or threatened labor -644
@@ -3593,7 +3593,7 @@ Prolonged pregnancy -645
  Abnormal glucose tolerance -648.8
  Other -648.9
 " Normal delivery, and other indications for care in pregnancy, labor, and delivery "
--650-659
+-1309
 Delivery in a completely normal case -650
 Multiple gestation -651
 Malposition and malpresentation of fetus -652
@@ -3673,7 +3673,7 @@ Contact dermatitis and other eczema -692
  Due to drugs and medicaments in contact with skin -692.3
  Due to other chemical products -692.4
  Due to food in contact with skin -692.5
- Due to plants _1Except food -692.6
+ Due to plants -Except food -692.6
  Due to solar radiation -692.7
  Due to other specified agents -692.8
  Unspecified cause -692.9
@@ -4113,7 +4113,7 @@ Other congenital anomalies of upper alimentary tract -750
  Tongue tie -750.0
  Other anomalies of tongue -750.1
  Other specified anomalies of mouth and pharynx -750.2
-" Tracheo_1Esophageal fistula, esophageal atresia and stenosis -750.3"
+" Tracheo-Esophageal fistula, esophageal atresia and stenosis -750.3"
  Other specified anomalies of esophagus -750.4
  Congenital hypertrophic pyloric stenosis -750.5
  Congenital hiatus hernia -750.6
@@ -4574,1077 +4574,1077 @@ Other ill-defined and unknown causes of mortality -799
  Cachexia -799.4
  Other ill-defined conditions -799.8
  Other unknown and unspecified cause -799.9
- Railway accidents _1E800_1E807
-Railway accident involving collision with rolling stock _1E800
- Railway employee _1E800.0
- Passenger on railway _1E800.1
- Pedestrian _1E800.2
- Pedal cyclist _1E800.3
- Other specified person _1E800.8
- Unspecified person _1E800.9
-Railway accident involving collision with other object _1E801
- Railway employee _1E801.0
- Passenger on railway _1E801.1
- Pedestrian _1E801.2
- Pedal cyclist _1E801.3
- Other specified person _1E801.8
- Unspecified person _1E801.9
-Railway accident involving derailment without antecedent collision _1E802
- Railway employee _1E802.0
- Passenger on railway _1E802.1
- Pedestrian _1E802.2
- Pedal cyclist _1E802.3
- Other specified person _1E802.8
- Unspecified person _1E802.9
-"Railway accident involving explosion, fire, or burning _1E803"
- Railway employee _1E803.0
- Passenger on railway _1E803.1
- Pedestrian _1E803.2
- Pedal cyclist _1E803.3
- Other specified person _1E803.8
- Unspecified person _1E803.9
-"Fall in, on, or from railway train _1E804"
- Railway employee _1E804.0
- Passenger on railway _1E804.1
- Pedestrian _1E804.2
- Pedal cyclist _1E804.3
- Other specified person _1E804.8
- Unspecified person _1E804.9
-Hit by rolling stock _1E805
- Railway employee _1E805.0
- Passenger on railway _1E805.1
- Pedestrian _1E805.2
- Pedal cyclist _1E805.3
- Other specified person _1E805.8
- Unspecified person _1E805.9
-Other specified railway accident _1E806
- Railway employee _1E806.0
- Passenger on railway _1E806.1
- Pedestrian _1E806.2
- Pedal cyclist _1E806.3
- Other specified person _1E806.8
- Unspecified person _1E806.9
-Railway accident of unspecified nature _1E807
- Railway employee _1E807.0
- Passenger on railway _1E807.1
- Pedestrian _1E807.2
- Pedal cyclist _1E807.3
- Other specified person _1E807.8
- Unspecified person _1E807.9
- Motor vehicle traffic accidents _1E810_1E819
-Motor vehicle traffic accident involving collision with train _1E810
-Motor vehicle traffic accident involving re_1Entrant collision with another motor vehicle _1E811
-Other motor vehicle traffic accident involving collision with another motor vehicle _1E812
-Motor vehicle traffic accident involving collision with other vehicle _1E813
-Motor vehicle traffic accident involving collision with pedestrian _1E814
-Other motor vehicle traffic accident involving collision on the highway _1E815
-Motor vehicle traffic accident due to loss of control without collision on the highway _1E816
-Noncollision motor vehicle traffic accident while boarding or alighting _1E817
-Other noncollision motor vehicle traffic accident _1E818
-Motor vehicle traffic accident of unspecified nature _1E819
- Motor vehicle nontraffic accidents _1E820_1E825
-Nontraffic accident involving motor-driven snow vehicle _1E820
-Nontraffic accident involving other off-road motor vehicle _1E821
-Other motor vehicle nontraffic accident involving collision with moving object _1E822
-Other motor vehicle nontraffic accident involving collision with stationary object _1E823
-Other motor vehicle nontraffic accident while boarding or alighting _1E824
-Other motor vehicle nontraffic accident of other and unspecified nature _1E825
- Other road vehicle accidents _1E826_1E829
-Pedal cycle accident _1E826
- Pedestrian _1E826.0
- Pedal cyclist _1E826.1
- Rider of animal _1E826.2
- Occupant of animal-drawn vehicle _1E826.3
- Occupant of streetcar _1E826.4
- Other specified person _1E826.8
- Unspecified person _1E826.9
-Animal-drawn vehicle accident _1E827
- Pedestrian _1E827.0
- Pedal cyclist _1E827.1
- Rider of animal _1E827.2
- Occupant of animal-drawn vehicle _1E827.3
- Occupant of streetcar _1E827.4
- Other specified person _1E827.8
- Unspecified person _1E827.9
-Accident involving animal being ridden _1E828
- Pedestrian _1E828.0
- Pedal cyclist _1E828.1
- Rider of animal _1E828.2
- Occupant of animal-drawn vehicle _1E828.3
- Occupant of streetcar _1E828.4
- Other specified person _1E828.8
- Unspecified person _1E828.9
-Other road vehicle accidents _1E829
- Pedestrian _1E829.0
- Pedal cyclist _1E829.1
- Rider of animal _1E829.2
- Occupant of animal-drawn vehicle _1E829.3
- Occupant of streetcar _1E829.4
- Other specified person _1E829.8
- Unspecified person _1E829.9
- Water transport accidents _1E830_1E838
-Accident to watercraft causing submersion _1E830
-" Occupant of small boat, unpowered _1E830.0"
-" Occupant of small boat, powered _1E830.1"
-" Occupant of other watercraft, crew _1E830.2"
-" Occupant of other watercraft, other than crew _1E830.3"
- Water skier _1E830.4
- Swimmer _1E830.5
-" Dockers, stevedores _1E830.6"
- Other specified person _1E830.8
- Unspecified person _1E830.9
-Accident to watercraft causing other injury _1E831
-" Occupant of small boat, unpowered _1E831.0"
-" Occupant of small boat, powered _1E831.1"
-" Occupant of other watercraft, crew _1E831.2"
-" Occupant of other watercraft, other than crew _1E831.3"
- Water skier _1E831.4
- Swimmer _1E831.5
-" Dockers, stevedores _1E831.6"
- Other specified person _1E831.8
- Unspecified person _1E831.9
-Other accidental submersion or drowning in water transport accident _1E832
-" Occupant of small boat, unpowered _1E832.0"
-" Occupant of small boat, powered _1E832.1"
-" Occupant of other watercraft, crew _1E832.2"
-" Occupant of other watercraft, other than crew _1E832.3"
- Water skier _1E832.4
- Swimmer _1E832.5
-" Dockers, stevedores _1E832.6"
- Other specified person _1E832.8
- Unspecified person _1E832.9
-Fall on stairs or ladders in water transport _1E833
-" Occupant of small boat, unpowered _1E833.0"
-" Occupant of small boat, powered _1E833.1"
-" Occupant of other watercraft, crew _1E833.2"
-" Occupant of other watercraft, other than crew _1E833.3"
- Water skier _1E833.4
- Swimmer _1E833.5
-" Dockers, stevedores _1E833.6"
- Other specified person _1E833.8
- Unspecified person _1E833.9
-Other fall from one level to another in water transport _1E834
-" Occupant of small boat, unpowered _1E834.0"
-" Occupant of small boat, powered _1E834.1"
-" Occupant of other watercraft, crew _1E834.2"
-" Occupant of other watercraft, other than crew _1E834.3"
- Water skier _1E834.4
- Swimmer _1E834.5
-" Dockers, stevedores _1E834.6"
- Other specified person _1E834.8
- Unspecified person _1E834.9
-Other and unspecified fall in water transport _1E835
-" Occupant of small boat, unpowered _1E835.0"
-" Occupant of small boat, powered _1E835.1"
-" Occupant of other watercraft, crew _1E835.2"
-" Occupant of other watercraft, other than crew _1E835.3"
- Water skier _1E835.4
- Swimmer _1E835.5
-" Dockers, stevedores _1E835.6"
- Other specified person _1E835.8
- Unspecified person _1E835.9
-Machinery accident in water transport _1E836
-" Occupant of small boat, unpowered _1E836.0"
-" Occupant of small boat, powered _1E836.1"
-" Occupant of other watercraft, crew _1E836.2"
-" Occupant of other watercraft, other than crew _1E836.3"
- Water skier _1E836.4
- Swimmer _1E836.5
-" Dockers, stevedores _1E836.6"
- Other specified person _1E836.8
- Unspecified person _1E836.9
-"Explosion, fire, or burning in watercraft _1E837"
-" Occupant of small boat, unpowered _1E837.0"
-" Occupant of small boat, powered _1E837.1"
-" Occupant of other watercraft, crew _1E837.2"
-" Occupant of other watercraft, other than crew _1E837.3"
- Water skier _1E837.4
- Swimmer _1E837.5
-" Dockers, stevedores _1E837.6"
- Other specified person _1E837.8
- Unspecified person _1E837.9
-Other and unspecified water transport accident _1E838
-" Occupant of small boat, unpowered _1E838.0"
-" Occupant of small boat, powered _1E838.1"
-" Occupant of other watercraft, crew _1E838.2"
-" Occupant of other watercraft, other than crew _1E838.3"
- Water skier _1E838.4
- Swimmer _1E838.5
-" Dockers, stevedores _1E838.6"
- Other specified person _1E838.8
- Unspecified person _1E838.9
- Air and space transport accidents _1E840_1E845
-Accident to powered aircraft at takeoff or landing _1E840
- Occupant of spacecraft _1E840.0
-" Occupant of military aircraft, any _1E840.1"
- Crew of commercial aircraft -powered in surface to surface transport _1E840.2
- Other occupant of commercial aircraft -powered in surface to surface transport _1E840.3
- Occupant of commercial aircraft -powered in surface to air transport _1E840.4
- Occupant of other powered aircraft _1E840.5
-" Occupant of unpowered aircraft, except parachutist _1E840.6"
- Parachutist -military -other _1E840.7
-" Ground crew, airline employee _1E840.8"
- Other person _1E840.9
-"Accident to powered aircraft, other and unspecified _1E841"
- Occupant of spacecraft _1E841.0
-" Occupant of military aircraft, any _1E841.1"
- Crew of commercial aircraft -powered in surface to surface transport _1E841.2
- Other occupant of commercial aircraft -powered in surface to surface transport _1E841.3
- Occupant of commercial aircraft -powered in surface to air transport _1E841.4
- Occupant of other powered aircraft _1E841.5
-" Occupant of unpowered aircraft, except parachutist _1E841.6"
- Parachutist -military -other _1E841.7
-" Ground crew, airline employee _1E841.8"
- Other person _1E841.9
-Accident to unpowered aircraft _1E842
- Occupant of spacecraft _1E842.0
-" Occupant of military aircraft, any _1E842.1"
- Crew of commercial aircraft -powered in surface to surface transport _1E842.2
- Other occupant of commercial aircraft -powered in surface to surface transport _1E842.3
- Occupant of commercial aircraft -powered in surface to air transport _1E842.4
- Occupant of other powered aircraft _1E842.5
-" Occupant of unpowered aircraft, except parachutist _1E842.6"
- Parachutist -military -other _1E842.7
-" Ground crew, airline employee _1E842.8"
- Other person _1E842.9
-"Fall in, on, or from aircraft _1E843"
- Occupant of spacecraft _1E843.0
-" Occupant of military aircraft, any _1E843.1"
- Crew of commercial aircraft -powered in surface to surface transport _1E843.2
- Other occupant of commercial aircraft -powered in surface to surface transport _1E843.3
- Occupant of commercial aircraft -powered in surface to air transport _1E843.4
- Occupant of other powered aircraft _1E843.5
-" Occupant of unpowered aircraft, except parachutist _1E843.6"
- Parachutist -military -other _1E843.7
-" Ground crew, airline employee _1E843.8"
- Other person _1E843.9
-Other specified air transport accidents _1E844
- Occupant of spacecraft _1E844.0
-" Occupant of military aircraft, any _1E844.1"
- Crew of commercial aircraft -powered in surface to surface transport _1E844.2
- Other occupant of commercial aircraft -powered in surface to surface transport _1E844.3
- Occupant of commercial aircraft -powered in surface to air transport _1E844.4
- Occupant of other powered aircraft _1E844.5
-" Occupant of unpowered aircraft, except parachutist _1E844.6"
- Parachutist -military -other _1E844.7
-" Ground crew, airline employee _1E844.8"
- Other person _1E844.9
-Accident involving spacecraft _1E845
- Occupant of spacecraft _1E845.0
-" Occupant of military aircraft, any _1E845.1"
- Crew of commercial aircraft -powered in surface to surface transport _1E845.2
- Other occupant of commercial aircraft -powered in surface to surface transport _1E845.3
- Occupant of commercial aircraft -powered in surface to air transport _1E845.4
- Occupant of other powered aircraft _1E845.5
-" Occupant of unpowered aircraft, except parachutist _1E845.6"
- Parachutist -military -other _1E845.7
-" Ground crew, airline employee _1E845.8"
- Other person _1E845.9
- Vehicle accidents not elsewhere classifiable _1E846_1E848
+ Railway accidents -E800-E807
+Railway accident involving collision with rolling stock -E800
+ Railway employee -E800.0
+ Passenger on railway -E800.1
+ Pedestrian -E800.2
+ Pedal cyclist -E800.3
+ Other specified person -E800.8
+ Unspecified person -E800.9
+Railway accident involving collision with other object -E801
+ Railway employee -E801.0
+ Passenger on railway -E801.1
+ Pedestrian -E801.2
+ Pedal cyclist -E801.3
+ Other specified person -E801.8
+ Unspecified person -E801.9
+Railway accident involving derailment without antecedent collision -E802
+ Railway employee -E802.0
+ Passenger on railway -E802.1
+ Pedestrian -E802.2
+ Pedal cyclist -E802.3
+ Other specified person -E802.8
+ Unspecified person -E802.9
+"Railway accident involving explosion, fire, or burning -E803"
+ Railway employee -E803.0
+ Passenger on railway -E803.1
+ Pedestrian -E803.2
+ Pedal cyclist -E803.3
+ Other specified person -E803.8
+ Unspecified person -E803.9
+"Fall in, on, or from railway train -E804"
+ Railway employee -E804.0
+ Passenger on railway -E804.1
+ Pedestrian -E804.2
+ Pedal cyclist -E804.3
+ Other specified person -E804.8
+ Unspecified person -E804.9
+Hit by rolling stock -E805
+ Railway employee -E805.0
+ Passenger on railway -E805.1
+ Pedestrian -E805.2
+ Pedal cyclist -E805.3
+ Other specified person -E805.8
+ Unspecified person -E805.9
+Other specified railway accident -E806
+ Railway employee -E806.0
+ Passenger on railway -E806.1
+ Pedestrian -E806.2
+ Pedal cyclist -E806.3
+ Other specified person -E806.8
+ Unspecified person -E806.9
+Railway accident of unspecified nature -E807
+ Railway employee -E807.0
+ Passenger on railway -E807.1
+ Pedestrian -E807.2
+ Pedal cyclist -E807.3
+ Other specified person -E807.8
+ Unspecified person -E807.9
+ Motor vehicle traffic accidents -E810-E819
+Motor vehicle traffic accident involving collision with train -E810
+Motor vehicle traffic accident involving re-Entrant collision with another motor vehicle -E811
+Other motor vehicle traffic accident involving collision with another motor vehicle -E812
+Motor vehicle traffic accident involving collision with other vehicle -E813
+Motor vehicle traffic accident involving collision with pedestrian -E814
+Other motor vehicle traffic accident involving collision on the highway -E815
+Motor vehicle traffic accident due to loss of control without collision on the highway -E816
+Noncollision motor vehicle traffic accident while boarding or alighting -E817
+Other noncollision motor vehicle traffic accident -E818
+Motor vehicle traffic accident of unspecified nature -E819
+ Motor vehicle nontraffic accidents -E820-E825
+Nontraffic accident involving motor-driven snow vehicle -E820
+Nontraffic accident involving other off-road motor vehicle -E821
+Other motor vehicle nontraffic accident involving collision with moving object -E822
+Other motor vehicle nontraffic accident involving collision with stationary object -E823
+Other motor vehicle nontraffic accident while boarding or alighting -E824
+Other motor vehicle nontraffic accident of other and unspecified nature -E825
+ Other road vehicle accidents -E826-E829
+Pedal cycle accident -E826
+ Pedestrian -E826.0
+ Pedal cyclist -E826.1
+ Rider of animal -E826.2
+ Occupant of animal-drawn vehicle -E826.3
+ Occupant of streetcar -E826.4
+ Other specified person -E826.8
+ Unspecified person -E826.9
+Animal-drawn vehicle accident -E827
+ Pedestrian -E827.0
+ Pedal cyclist -E827.1
+ Rider of animal -E827.2
+ Occupant of animal-drawn vehicle -E827.3
+ Occupant of streetcar -E827.4
+ Other specified person -E827.8
+ Unspecified person -E827.9
+Accident involving animal being ridden -E828
+ Pedestrian -E828.0
+ Pedal cyclist -E828.1
+ Rider of animal -E828.2
+ Occupant of animal-drawn vehicle -E828.3
+ Occupant of streetcar -E828.4
+ Other specified person -E828.8
+ Unspecified person -E828.9
+Other road vehicle accidents -E829
+ Pedestrian -E829.0
+ Pedal cyclist -E829.1
+ Rider of animal -E829.2
+ Occupant of animal-drawn vehicle -E829.3
+ Occupant of streetcar -E829.4
+ Other specified person -E829.8
+ Unspecified person -E829.9
+ Water transport accidents -E830-E838
+Accident to watercraft causing submersion -E830
+" Occupant of small boat, unpowered -E830.0"
+" Occupant of small boat, powered -E830.1"
+" Occupant of other watercraft, crew -E830.2"
+" Occupant of other watercraft, other than crew -E830.3"
+ Water skier -E830.4
+ Swimmer -E830.5
+" Dockers, stevedores -E830.6"
+ Other specified person -E830.8
+ Unspecified person -E830.9
+Accident to watercraft causing other injury -E831
+" Occupant of small boat, unpowered -E831.0"
+" Occupant of small boat, powered -E831.1"
+" Occupant of other watercraft, crew -E831.2"
+" Occupant of other watercraft, other than crew -E831.3"
+ Water skier -E831.4
+ Swimmer -E831.5
+" Dockers, stevedores -E831.6"
+ Other specified person -E831.8
+ Unspecified person -E831.9
+Other accidental submersion or drowning in water transport accident -E832
+" Occupant of small boat, unpowered -E832.0"
+" Occupant of small boat, powered -E832.1"
+" Occupant of other watercraft, crew -E832.2"
+" Occupant of other watercraft, other than crew -E832.3"
+ Water skier -E832.4
+ Swimmer -E832.5
+" Dockers, stevedores -E832.6"
+ Other specified person -E832.8
+ Unspecified person -E832.9
+Fall on stairs or ladders in water transport -E833
+" Occupant of small boat, unpowered -E833.0"
+" Occupant of small boat, powered -E833.1"
+" Occupant of other watercraft, crew -E833.2"
+" Occupant of other watercraft, other than crew -E833.3"
+ Water skier -E833.4
+ Swimmer -E833.5
+" Dockers, stevedores -E833.6"
+ Other specified person -E833.8
+ Unspecified person -E833.9
+Other fall from one level to another in water transport -E834
+" Occupant of small boat, unpowered -E834.0"
+" Occupant of small boat, powered -E834.1"
+" Occupant of other watercraft, crew -E834.2"
+" Occupant of other watercraft, other than crew -E834.3"
+ Water skier -E834.4
+ Swimmer -E834.5
+" Dockers, stevedores -E834.6"
+ Other specified person -E834.8
+ Unspecified person -E834.9
+Other and unspecified fall in water transport -E835
+" Occupant of small boat, unpowered -E835.0"
+" Occupant of small boat, powered -E835.1"
+" Occupant of other watercraft, crew -E835.2"
+" Occupant of other watercraft, other than crew -E835.3"
+ Water skier -E835.4
+ Swimmer -E835.5
+" Dockers, stevedores -E835.6"
+ Other specified person -E835.8
+ Unspecified person -E835.9
+Machinery accident in water transport -E836
+" Occupant of small boat, unpowered -E836.0"
+" Occupant of small boat, powered -E836.1"
+" Occupant of other watercraft, crew -E836.2"
+" Occupant of other watercraft, other than crew -E836.3"
+ Water skier -E836.4
+ Swimmer -E836.5
+" Dockers, stevedores -E836.6"
+ Other specified person -E836.8
+ Unspecified person -E836.9
+"Explosion, fire, or burning in watercraft -E837"
+" Occupant of small boat, unpowered -E837.0"
+" Occupant of small boat, powered -E837.1"
+" Occupant of other watercraft, crew -E837.2"
+" Occupant of other watercraft, other than crew -E837.3"
+ Water skier -E837.4
+ Swimmer -E837.5
+" Dockers, stevedores -E837.6"
+ Other specified person -E837.8
+ Unspecified person -E837.9
+Other and unspecified water transport accident -E838
+" Occupant of small boat, unpowered -E838.0"
+" Occupant of small boat, powered -E838.1"
+" Occupant of other watercraft, crew -E838.2"
+" Occupant of other watercraft, other than crew -E838.3"
+ Water skier -E838.4
+ Swimmer -E838.5
+" Dockers, stevedores -E838.6"
+ Other specified person -E838.8
+ Unspecified person -E838.9
+ Air and space transport accidents -E840-E845
+Accident to powered aircraft at takeoff or landing -E840
+ Occupant of spacecraft -E840.0
+" Occupant of military aircraft, any -E840.1"
+ Crew of commercial aircraft -powered in surface to surface transport -E840.2
+ Other occupant of commercial aircraft -powered in surface to surface transport -E840.3
+ Occupant of commercial aircraft -powered in surface to air transport -E840.4
+ Occupant of other powered aircraft -E840.5
+" Occupant of unpowered aircraft, except parachutist -E840.6"
+ Parachutist -military -other -E840.7
+" Ground crew, airline employee -E840.8"
+ Other person -E840.9
+"Accident to powered aircraft, other and unspecified -E841"
+ Occupant of spacecraft -E841.0
+" Occupant of military aircraft, any -E841.1"
+ Crew of commercial aircraft -powered in surface to surface transport -E841.2
+ Other occupant of commercial aircraft -powered in surface to surface transport -E841.3
+ Occupant of commercial aircraft -powered in surface to air transport -E841.4
+ Occupant of other powered aircraft -E841.5
+" Occupant of unpowered aircraft, except parachutist -E841.6"
+ Parachutist -military -other -E841.7
+" Ground crew, airline employee -E841.8"
+ Other person -E841.9
+Accident to unpowered aircraft -E842
+ Occupant of spacecraft -E842.0
+" Occupant of military aircraft, any -E842.1"
+ Crew of commercial aircraft -powered in surface to surface transport -E842.2
+ Other occupant of commercial aircraft -powered in surface to surface transport -E842.3
+ Occupant of commercial aircraft -powered in surface to air transport -E842.4
+ Occupant of other powered aircraft -E842.5
+" Occupant of unpowered aircraft, except parachutist -E842.6"
+ Parachutist -military -other -E842.7
+" Ground crew, airline employee -E842.8"
+ Other person -E842.9
+"Fall in, on, or from aircraft -E843"
+ Occupant of spacecraft -E843.0
+" Occupant of military aircraft, any -E843.1"
+ Crew of commercial aircraft -powered in surface to surface transport -E843.2
+ Other occupant of commercial aircraft -powered in surface to surface transport -E843.3
+ Occupant of commercial aircraft -powered in surface to air transport -E843.4
+ Occupant of other powered aircraft -E843.5
+" Occupant of unpowered aircraft, except parachutist -E843.6"
+ Parachutist -military -other -E843.7
+" Ground crew, airline employee -E843.8"
+ Other person -E843.9
+Other specified air transport accidents -E844
+ Occupant of spacecraft -E844.0
+" Occupant of military aircraft, any -E844.1"
+ Crew of commercial aircraft -powered in surface to surface transport -E844.2
+ Other occupant of commercial aircraft -powered in surface to surface transport -E844.3
+ Occupant of commercial aircraft -powered in surface to air transport -E844.4
+ Occupant of other powered aircraft -E844.5
+" Occupant of unpowered aircraft, except parachutist -E844.6"
+ Parachutist -military -other -E844.7
+" Ground crew, airline employee -E844.8"
+ Other person -E844.9
+Accident involving spacecraft -E845
+ Occupant of spacecraft -E845.0
+" Occupant of military aircraft, any -E845.1"
+ Crew of commercial aircraft -powered in surface to surface transport -E845.2
+ Other occupant of commercial aircraft -powered in surface to surface transport -E845.3
+ Occupant of commercial aircraft -powered in surface to air transport -E845.4
+ Occupant of other powered aircraft -E845.5
+" Occupant of unpowered aircraft, except parachutist -E845.6"
+ Parachutist -military -other -E845.7
+" Ground crew, airline employee -E845.8"
+ Other person -E845.9
+ Vehicle accidents not elsewhere classifiable -E846-E848
 Accidents involving powered vehicles used solely within the buildings and premises of an
-industrial or commercial establishment _1E846
-Accidents involving cable cars not running on rails _1E847
-Accidents involving other vehicles not elsewhere classified _1E848
-" Accidental poisoning by drugs, medicaments, and biologicals _1E850_1E858"
-"Accidental poisoning by analgesics, antipyretics, antirheumatics _1E850"
- Opiates and related narcotics _1E850.0
- Salicylates _1E850.1
-" Aromatic analgesics, not elsewhere classified _1E850.2"
- Pyrazole derivatives _1E850.3
- Antirheumatics -antiphlogistics _1E850.4
- Other non-narcotic analgesics _1E850.5
- Other _1E850.8
- Unspecified _1E850.9
-Accidental poisoning by barbiturates _1E851
-Accidental poisoning by other sedatives and hypnotics _1E852
- Chloral hydrate group _1E852.0
- Paraldehyde _1E852.1
- Bromine compounds _1E852.2
- Methaqualone compounds _1E852.3
- Glutethimide group _1E852.4
-" Mixed sedatives, not elsewhere classified _1E852.5"
- Other _1E852.8
- Unspecified _1E852.9
-Accidental poisoning by tranquilizers _1E853
- Phenothiazine-based tranquilizers _1E853.0
- Butyrophenone-based tranquilizers _1E853.1
- Benzodiazepine-based tranquilizers _1E853.2
- Other _1E853.8
- Unspecified _1E853.9
-Accidental poisoning by other psychotropic agents _1E854
- Antidepressants _1E854.0
- Psychodysleptics -hallucinogens _1E854.1
- Psychostimulants _1E854.2
- Central nervous system stimulants _1E854.3
-Accidental poisoning by other drugs acting on central and autonomic nervous systems _1E855
- Anticonvulsant and anti-Parkinsonism drugs _1E855.0
- Other central nervous system depressants _1E855.1
- Local anesthetics _1E855.2
- Parasympathomimetics -cholinergics _1E855.3
- Parasympatholytics -anticholinergics and antimuscarinics and spasmolytics _1E855.4
- Sympathomimetics -adrenergics _1E855.5
- Sympatholytics -antiadrenergics _1E855.6
- Other _1E855.8
- Unspecified _1E855.9
-Accidental poisoning by antibiotics _1E856
-Accidental poisoning by anti-infectives _1E857
-Accidental poisoning by other drugs _1E858
- Hormones and synthetic substitutes _1E858.0
- Primarily systemic agents _1E858.1
- Agents primarily affecting blood constituents _1E858.2
- Agents primarily affecting cardiovascular system _1E858.3
- Agents primarily affecting gastrointestinal system _1E858.4
-" Water, mineral, and uric acid metabolism drugs _1E858.5"
- Agents primarily acting on the smooth and skeletal muscles and respiratory system _1E858.6
+industrial or commercial establishment -E846
+Accidents involving cable cars not running on rails -E847
+Accidents involving other vehicles not elsewhere classified -E848
+" Accidental poisoning by drugs, medicaments, and biologicals -E850-E858"
+"Accidental poisoning by analgesics, antipyretics, antirheumatics -E850"
+ Opiates and related narcotics -E850.0
+ Salicylates -E850.1
+" Aromatic analgesics, not elsewhere classified -E850.2"
+ Pyrazole derivatives -E850.3
+ Antirheumatics -antiphlogistics -E850.4
+ Other non-narcotic analgesics -E850.5
+ Other -E850.8
+ Unspecified -E850.9
+Accidental poisoning by barbiturates -E851
+Accidental poisoning by other sedatives and hypnotics -E852
+ Chloral hydrate group -E852.0
+ Paraldehyde -E852.1
+ Bromine compounds -E852.2
+ Methaqualone compounds -E852.3
+ Glutethimide group -E852.4
+" Mixed sedatives, not elsewhere classified -E852.5"
+ Other -E852.8
+ Unspecified -E852.9
+Accidental poisoning by tranquilizers -E853
+ Phenothiazine-based tranquilizers -E853.0
+ Butyrophenone-based tranquilizers -E853.1
+ Benzodiazepine-based tranquilizers -E853.2
+ Other -E853.8
+ Unspecified -E853.9
+Accidental poisoning by other psychotropic agents -E854
+ Antidepressants -E854.0
+ Psychodysleptics -hallucinogens -E854.1
+ Psychostimulants -E854.2
+ Central nervous system stimulants -E854.3
+Accidental poisoning by other drugs acting on central and autonomic nervous systems -E855
+ Anticonvulsant and anti-Parkinsonism drugs -E855.0
+ Other central nervous system depressants -E855.1
+ Local anesthetics -E855.2
+ Parasympathomimetics -cholinergics -E855.3
+ Parasympatholytics -anticholinergics and antimuscarinics and spasmolytics -E855.4
+ Sympathomimetics -adrenergics -E855.5
+ Sympatholytics -antiadrenergics -E855.6
+ Other -E855.8
+ Unspecified -E855.9
+Accidental poisoning by antibiotics -E856
+Accidental poisoning by anti-infectives -E857
+Accidental poisoning by other drugs -E858
+ Hormones and synthetic substitutes -E858.0
+ Primarily systemic agents -E858.1
+ Agents primarily affecting blood constituents -E858.2
+ Agents primarily affecting cardiovascular system -E858.3
+ Agents primarily affecting gastrointestinal system -E858.4
+" Water, mineral, and uric acid metabolism drugs -E858.5"
+ Agents primarily acting on the smooth and skeletal muscles and respiratory system -E858.6
 " Agents primarily affecting skin and mucous membrane, ophthalmological, otorhinolaryngological, and dental"
-drugs _1E858.7
- Other _1E858.8
- Unspecified _1E858.9
-" Accidental poisoning by other solid and liquid substances, gases, and vapors _1E860_1E869"
-"Accidental poisoning by alcohol, not elsewhere classified _1E860"
- Alcoholic beverages _1E860.0
- Other and unspecified ethyl alcohol and its products _1E860.1
- Methyl alcohol _1E860.2
- Isopropyl alcohol _1E860.3
- Fusel oil _1E860.4
- Other _1E860.8
- Unspecified _1E860.9
+drugs -E858.7
+ Other -E858.8
+ Unspecified -E858.9
+" Accidental poisoning by other solid and liquid substances, gases, and vapors -E860-E869"
+"Accidental poisoning by alcohol, not elsewhere classified -E860"
+ Alcoholic beverages -E860.0
+ Other and unspecified ethyl alcohol and its products -E860.1
+ Methyl alcohol -E860.2
+ Isopropyl alcohol -E860.3
+ Fusel oil -E860.4
+ Other -E860.8
+ Unspecified -E860.9
 "Accidental poisoning by cleansing and polishing agents, disinfectants, paints, and varnishes "
-_1E861
- Synthetic detergents and shampoos _1E861.0
- Soap products _1E861.1
- Polishes _1E861.2
- Other cleansing and polishing agents _1E861.3
- Disinfectants _1E861.4
- Lead paints _1E861.5
- Other paints and varnishes _1E861.6
- Unspecified _1E861.9
+-E861
+ Synthetic detergents and shampoos -E861.0
+ Soap products -E861.1
+ Polishes -E861.2
+ Other cleansing and polishing agents -E861.3
+ Disinfectants -E861.4
+ Lead paints -E861.5
+ Other paints and varnishes -E861.6
+ Unspecified -E861.9
 "Accidental poisoning by petroleum products, other solvents, and their vapors, not elsewhere"
-classified _1E862
- Petroleum solvents _1E862.0
- Petroleum fuels and cleaners _1E862.1
- Lubricating oils _1E862.2
- Petroleum solids _1E862.3
- Other solvents _1E862.4
- Unspecified _1E862.9
+classified -E862
+ Petroleum solvents -E862.0
+ Petroleum fuels and cleaners -E862.1
+ Lubricating oils -E862.2
+ Petroleum solids -E862.3
+ Other solvents -E862.4
+ Unspecified -E862.9
 Accidental poisoning by agricultural and horticultural chemical and pharmaceutical preparations
-other than plant foods and fertilizers _1E863
- Insecticides of organochlorine compounds _1E863.0
- Insecticides of organophosphorus compounds _1E863.1
- Carbamates _1E863.2
- Mixtures of insecticides _1E863.3
- Other and unspecified insecticides _1E863.4
- Herbicides _1E863.5
- Fungicides _1E863.6
- Rodenticides _1E863.7
- Fumigants _1E863.8
- Other and unspecified _1E863.9
-"Accidental poisoning by corrosives and caustics, not elsewhere classified _1E864"
- Corrosive aromatics _1E864.0
- Acids _1E864.1
- Caustic alkalis _1E864.2
- Other _1E864.3
- Unspecified _1E864.4
-Accidental poisoning from foodstuffs and poisonous plants _1E865
- Meat _1E865.0
- Shellfish _1E865.1
- Other fish _1E865.2
- Berries and seeds _1E865.3
- Other plants _1E865.4
- Mushrooms and other fungi _1E865.5
- Other food _1E865.8
- Unspecified _1E865.9
-Accidental poisoning by other and unspecified solid and liquid substances _1E866
- Lead and its compounds and fumes _1E866.0
- Mercury and its compounds and fumes _1E866.1
- Antimony and its compounds and fumes _1E866.2
- Arsenic and its compounds and fumes _1E866.3
- Other metals and their compounds and fumes _1E866.4
- Plant foods and fertilizers _1E866.5
- Glues and adhesives _1E866.6
- Cosmetics _1E866.7
- Other _1E866.8
- Unspecified _1E866.9
-Accidental poisoning by gas distributed by pipeline _1E867
-Accidental poisoning by other utility gas and other carbon monoxide _1E868
- Liquefied petroleum gas distributed in mobile containers _1E868.0
- Other and unspecified utility gas _1E868.1
- Motor vehicle exhaust gas _1E868.2
- Carbon monoxide from incomplete combustion of other domestic fuels _1E868.3
- Carbon monoxide from other sources _1E868.8
- Unspecified carbon monoxide _1E868.9
-Accidental poisoning by other gases and vapors _1E869
- Nitrogen oxides _1E869.0
- Sulphur dioxide _1E869.1
- Freon _1E869.2
- Lacrimogenic gas -tear gas _1E869.3
- Other specified gases and vapors _1E869.8
- Unspecified gases and vapors _1E869.9
- Misadventures to patients during surgical and medical care _1E870_1E876
-"Accidental cut, puncture, perforation, or hemorrhage during medical care _1E870"
- Surgical operation _1E870.0
- Infusion or transfusion _1E870.1
- Kidney dialysis or other perfusion _1E870.2
- Injection or vaccination _1E870.3
- Endoscopic examination _1E870.4
-" Aspiration of fluid or tissue, puncture, and catheterization -any except heart catheterization _1E870.5"
- Heart catheterization _1E870.6
- Administration of enema _1E870.7
- Other _1E870.8
- Unspecified _1E870.9
-Foreign object left in body during procedure _1E871
- Surgical operation _1E871.0
- Infusion or transfusion _1E871.1
- Kidney dialysis or other perfusion _1E871.2
- Injection or vaccination _1E871.3
- Endoscopic examination _1E871.4
-" Aspiration of fluid or tissue, puncture, and catheterization -any except heart catheterization _1E871.5"
- Heart catheterization _1E871.6
- Removal of catheter or packing _1E871.7
- Other _1E871.8
- Unspecified _1E871.9
-Failure of sterile precautions during procedure _1E872
- Surgical operation _1E872.0
- Infusion or transfusion _1E872.1
- Kidney dialysis and other perfusion _1E872.2
- Injection or vaccination _1E872.3
- Endoscopic examination _1E872.4
-" Aspiration of fluid or tissue, puncture, and catheterization -any except heart catheterization _1E872.5"
- Heart catheterization _1E872.6
- Other _1E872.8
- Unspecified _1E872.9
-Failure in dosage _1E873
- Excessive amount of blood or other fluid during transfusion or infusion _1E873.0
- Incorrect dilution of fluid during infusion _1E873.1
- Overdose of radiation in therapy _1E873.2
- Inadvertent exposure of patient to radiation during medical care _1E873.3
- Failure in dosage in electroshock or insulin-shock therapy _1E873.4
- Inappropriate -too hot or too cold temperature in local application and packing _1E873.5
- Nonadministration of necessary drug or medicament _1E873.6
- Other _1E873.8
- Unspecified _1E873.9
-Mechanical failure of instrument or apparatus during procedure _1E874
- Surgical operation _1E874.0
- Infusion and transfusion _1E874.1
- Kidney dialysis and other perfusion _1E874.2
- Endoscopic examination _1E874.3
-" Aspiration of fluid or tissue, puncture, and catheterization -any except heart catheterization _1E874.4"
- Heart catheterization _1E874.5
- Other _1E874.8
- Unspecified _1E874.9
-"Contaminated or infected blood, other fluid, drug, or biological substance _1E875"
- Contaminated substance transfused or infused _1E875.0
- Contaminated substance injected or used for vaccination _1E875.1
- Contaminated drug or biological substance administered by other means _1E875.2
- Other _1E875.8
- Unspecified _1E875.9
-Other and unspecified misadventures during medical care _1E876
- Mismatched blood in transfusion _1E876.0
- Wrong fluid in infusion _1E876.1
- Failure in suture and ligature during surgical operation _1E876.2
- Endotracheal tube wrongly placed during anesthetic procedure _1E876.3
- Failure to introduce or to remove other tube or instrument _1E876.4
- Performance of inappropriate operation _1E876.5
- Other specified misadventures _1E876.8
- Unspecified misadventure _1E876.9
+other than plant foods and fertilizers -E863
+ Insecticides of organochlorine compounds -E863.0
+ Insecticides of organophosphorus compounds -E863.1
+ Carbamates -E863.2
+ Mixtures of insecticides -E863.3
+ Other and unspecified insecticides -E863.4
+ Herbicides -E863.5
+ Fungicides -E863.6
+ Rodenticides -E863.7
+ Fumigants -E863.8
+ Other and unspecified -E863.9
+"Accidental poisoning by corrosives and caustics, not elsewhere classified -E864"
+ Corrosive aromatics -E864.0
+ Acids -E864.1
+ Caustic alkalis -E864.2
+ Other -E864.3
+ Unspecified -E864.4
+Accidental poisoning from foodstuffs and poisonous plants -E865
+ Meat -E865.0
+ Shellfish -E865.1
+ Other fish -E865.2
+ Berries and seeds -E865.3
+ Other plants -E865.4
+ Mushrooms and other fungi -E865.5
+ Other food -E865.8
+ Unspecified -E865.9
+Accidental poisoning by other and unspecified solid and liquid substances -E866
+ Lead and its compounds and fumes -E866.0
+ Mercury and its compounds and fumes -E866.1
+ Antimony and its compounds and fumes -E866.2
+ Arsenic and its compounds and fumes -E866.3
+ Other metals and their compounds and fumes -E866.4
+ Plant foods and fertilizers -E866.5
+ Glues and adhesives -E866.6
+ Cosmetics -E866.7
+ Other -E866.8
+ Unspecified -E866.9
+Accidental poisoning by gas distributed by pipeline -E867
+Accidental poisoning by other utility gas and other carbon monoxide -E868
+ Liquefied petroleum gas distributed in mobile containers -E868.0
+ Other and unspecified utility gas -E868.1
+ Motor vehicle exhaust gas -E868.2
+ Carbon monoxide from incomplete combustion of other domestic fuels -E868.3
+ Carbon monoxide from other sources -E868.8
+ Unspecified carbon monoxide -E868.9
+Accidental poisoning by other gases and vapors -E869
+ Nitrogen oxides -E869.0
+ Sulphur dioxide -E869.1
+ Freon -E869.2
+ Lacrimogenic gas -tear gas -E869.3
+ Other specified gases and vapors -E869.8
+ Unspecified gases and vapors -E869.9
+ Misadventures to patients during surgical and medical care -E870-E876
+"Accidental cut, puncture, perforation, or hemorrhage during medical care -E870"
+ Surgical operation -E870.0
+ Infusion or transfusion -E870.1
+ Kidney dialysis or other perfusion -E870.2
+ Injection or vaccination -E870.3
+ Endoscopic examination -E870.4
+" Aspiration of fluid or tissue, puncture, and catheterization -any except heart catheterization -E870.5"
+ Heart catheterization -E870.6
+ Administration of enema -E870.7
+ Other -E870.8
+ Unspecified -E870.9
+Foreign object left in body during procedure -E871
+ Surgical operation -E871.0
+ Infusion or transfusion -E871.1
+ Kidney dialysis or other perfusion -E871.2
+ Injection or vaccination -E871.3
+ Endoscopic examination -E871.4
+" Aspiration of fluid or tissue, puncture, and catheterization -any except heart catheterization -E871.5"
+ Heart catheterization -E871.6
+ Removal of catheter or packing -E871.7
+ Other -E871.8
+ Unspecified -E871.9
+Failure of sterile precautions during procedure -E872
+ Surgical operation -E872.0
+ Infusion or transfusion -E872.1
+ Kidney dialysis and other perfusion -E872.2
+ Injection or vaccination -E872.3
+ Endoscopic examination -E872.4
+" Aspiration of fluid or tissue, puncture, and catheterization -any except heart catheterization -E872.5"
+ Heart catheterization -E872.6
+ Other -E872.8
+ Unspecified -E872.9
+Failure in dosage -E873
+ Excessive amount of blood or other fluid during transfusion or infusion -E873.0
+ Incorrect dilution of fluid during infusion -E873.1
+ Overdose of radiation in therapy -E873.2
+ Inadvertent exposure of patient to radiation during medical care -E873.3
+ Failure in dosage in electroshock or insulin-shock therapy -E873.4
+ Inappropriate -too hot or too cold temperature in local application and packing -E873.5
+ Nonadministration of necessary drug or medicament -E873.6
+ Other -E873.8
+ Unspecified -E873.9
+Mechanical failure of instrument or apparatus during procedure -E874
+ Surgical operation -E874.0
+ Infusion and transfusion -E874.1
+ Kidney dialysis and other perfusion -E874.2
+ Endoscopic examination -E874.3
+" Aspiration of fluid or tissue, puncture, and catheterization -any except heart catheterization -E874.4"
+ Heart catheterization -E874.5
+ Other -E874.8
+ Unspecified -E874.9
+"Contaminated or infected blood, other fluid, drug, or biological substance -E875"
+ Contaminated substance transfused or infused -E875.0
+ Contaminated substance injected or used for vaccination -E875.1
+ Contaminated drug or biological substance administered by other means -E875.2
+ Other -E875.8
+ Unspecified -E875.9
+Other and unspecified misadventures during medical care -E876
+ Mismatched blood in transfusion -E876.0
+ Wrong fluid in infusion -E876.1
+ Failure in suture and ligature during surgical operation -E876.2
+ Endotracheal tube wrongly placed during anesthetic procedure -E876.3
+ Failure to introduce or to remove other tube or instrument -E876.4
+ Performance of inappropriate operation -E876.5
+ Other specified misadventures -E876.8
+ Unspecified misadventure -E876.9
  Surgical and medical procedures as the cause of abnormal reaction of patient or later
-"complication, without mention of misadventure at the time of procedure _1E878_1E879"
+"complication, without mention of misadventure at the time of procedure -E878-E879"
 "Surgical operation and other surgical procedures as the cause of abnormal reaction of patient, or of"
-"later complication, without mention of misadventure at the time of operation _1E878"
- Surgical operation with transplant of whole organ _1E878.0
- Surgical operation with implant of artificial internal device _1E878.1
-" Surgical operation with anastomosis, bypass, or graft with natural or artifical tissues used as implant _1E878.2"
- Surgical operation with formation of external stoma _1E878.3
- Other restorative surgery _1E878.4
- Amputation of limb-s _1E878.5
- Removal of other organ -partial -total _1E878.6
- Other _1E878.8
- Unspecified _1E878.9
+"later complication, without mention of misadventure at the time of operation -E878"
+ Surgical operation with transplant of whole organ -E878.0
+ Surgical operation with implant of artificial internal device -E878.1
+" Surgical operation with anastomosis, bypass, or graft with natural or artifical tissues used as implant -E878.2"
+ Surgical operation with formation of external stoma -E878.3
+ Other restorative surgery -E878.4
+ Amputation of limb-s -E878.5
+ Removal of other organ -partial -total -E878.6
+ Other -E878.8
+ Unspecified -E878.9
 "Other procedures, without mention of misadventure at the time of procedure, as the cause of"
-"abnormal reaction of patient, or of later complication _1E879"
- Cardiac catheterization _1E879.0
- Kidney dialysis _1E879.1
- Radiological procedure and radiotherapy _1E879.2
- Shock therapy _1E879.3
- Aspiration of fluid _1E879.4
- Insertion of gastric or duodenal sound _1E879.5
- Urinary catheterization _1E879.6
- Blood sampling _1E879.7
- Other _1E879.8
- Unspecified _1E879.9
- Accidental falls _1E880_1E888
-Fall on or from stairs or steps _1E880
- Escalator _1E880.0
- Other stairs or steps _1E880.9
-Fall on or from ladders or scaffolding _1E881
- Fall from ladder _1E881.0
- Fall from scaffolding _1E881.1
-Fall from or out of building or other structure _1E882
-Fall into hole or other opening in surface _1E883
- Accident from diving or jumping into water -swimming pool _1E883.0
- Accidental fall into well _1E883.1
- Accidental fall into storm drain or manhole _1E883.2
- Fall into other hole or other opening in surface _1E883.9
-Other falls from one level to another _1E884
- Fall from playground equipment _1E884.0
- Fall from cliff _1E884.1
- Fall from chair or bed _1E884.2
- Other falls from one level to another _1E884.9
-"Fall on same level from slipping, tripping, or stumbling _1E885"
-"Fall on same level from collision, pushing, or shoving, by or with other person _1E886"
- In sports _1E886.0
- Other and unspecified _1E886.9
-"Fracture, cause unspecified _1E887"
-Other and unspecified falls _1E888
- Accidents caused by fire and flames _1E890_1E899
-Conflagration in private dwelling _1E890
- Explosion caused by conflagration _1E890.0
- Fumes from combustion of polyvinylchloride -PVC and similar material in conflagration _1E890.1
- Other smoke and fumes from conflagration _1E890.2
- Burning caused by conflagration _1E890.3
- Other accident resulting from conflagration _1E890.8
- Unspecified _1E890.9
-Conflagration in other and unspecified building or structure _1E891
- Explosion caused by conflagration _1E891.0
- Fumes from combustion of polyvinylchloride -PVC and similar material in conflagration _1E891.1
- Other smoke and fumes from conflagration _1E891.2
- Burning caused by conflagration _1E891.3
- Other accident resulting from conflagration _1E891.8
- Unspecified _1E891.9
-Conflagration not in building or structure _1E892
-Accident caused by ignition of clothing _1E893
- From controlled fire in private dwelling _1E893.0
- From controlled fire in other building or structure _1E893.1
- From controlled fire not in building or structure _1E893.2
- From other sources _1E893.8
- Unspecified _1E893.9
-Ignition of highly inflammable material _1E894
-Accident caused by controlled fire in private dwelling _1E895
-Accident caused by controlled fire in other and unspecified building or structure _1E896
-Accident caused by controlled fire not in building or structure _1E897
-Accident caused by other specified fire and flames _1E898
- Burning bedclothes _1E898.0
- Other _1E898.1
-Accident caused by unspecified fire _1E899
- Accidents due to natural and environmental factors _1E900_1E909
-Excessive heat _1E900
- Due to weather conditions _1E900.0
- Of manmade origin _1E900.1
- Of unspecified origin _1E900.9
-Excessive cold _1E901
- Due to weather conditions _1E901.0
- Of manmade origin _1E901.1
- Other _1E901.8
- Of unspecified origin _1E901.9
-High and low air pressure and changes in air pressure _1E902
- Residence or prolonged visit at high altitude _1E902.0
- In aircraft _1E902.1
- Due to diving _1E902.2
- Due to other specified causes _1E902.8
- Unspecified _1E902.9
-Travel and motion _1E903
-"Hunger, thirst, exposure, neglect _1E904"
- Abandonment or neglect of infants and helpless persons _1E904.0
- Lack of food _1E904.1
- Lack of water _1E904.2
-" Exposure -to weather conditions, not elsewhere classified _1E904.3"
-" Privation, unqualified _1E904.9"
-Venomous animals and plants as the cause of poisoning and toxic reactions _1E905
- Venomous snakes and lizards _1E905.0
- Venomous spiders _1E905.1
- Scorpion _1E905.2
-" Hornets, wasps, and bees _1E905.3"
- Centipede and venomous millipede -tropical _1E905.4
- Other venomous arthropods _1E905.5
- Venomous marine animals and plants _1E905.6
- Poisoning and toxic reactions caused by other plants _1E905.7
- Other specified _1E905.8
- Unspecified _1E905.9
-Other injury caused by animals _1E906
- Dog bite _1E906.0
- Rat bite _1E906.1
- Bite of nonvenomous snakes and lizards _1E906.2
- Bite of other animal except arthropod _1E906.3
- Bite of nonvenomous arthropod _1E906.4
- Other specified injury caused by animal _1E906.8
- Unspecified _1E906.9
-Lightning _1E907
-Cataclysmic storms and floods resulting from storms _1E908
-Cataclysmic earth surface movements and eruptions _1E909
-" Accidents caused by submersion, suffocation, and foreign bodies _1E910_1E915"
-Accidental drowning and submersion _1E910
- While water skiing _1E910.0
- While engaged in other sport or recreational activity with diving equipment _1E910.1
- While engaged in other sport or recreational activity without diving equipment _1E910.2
- While swimming or diving for purposes other than recreation or sport _1E910.3
- In bathtub _1E910.4
- Other _1E910.8
- Unspecified _1E910.9
-Inhalation and ingestion of food causing obstruction of respiratory tract or suffocation _1E911
+"abnormal reaction of patient, or of later complication -E879"
+ Cardiac catheterization -E879.0
+ Kidney dialysis -E879.1
+ Radiological procedure and radiotherapy -E879.2
+ Shock therapy -E879.3
+ Aspiration of fluid -E879.4
+ Insertion of gastric or duodenal sound -E879.5
+ Urinary catheterization -E879.6
+ Blood sampling -E879.7
+ Other -E879.8
+ Unspecified -E879.9
+ Accidental falls -E880-E888
+Fall on or from stairs or steps -E880
+ Escalator -E880.0
+ Other stairs or steps -E880.9
+Fall on or from ladders or scaffolding -E881
+ Fall from ladder -E881.0
+ Fall from scaffolding -E881.1
+Fall from or out of building or other structure -E882
+Fall into hole or other opening in surface -E883
+ Accident from diving or jumping into water -swimming pool -E883.0
+ Accidental fall into well -E883.1
+ Accidental fall into storm drain or manhole -E883.2
+ Fall into other hole or other opening in surface -E883.9
+Other falls from one level to another -E884
+ Fall from playground equipment -E884.0
+ Fall from cliff -E884.1
+ Fall from chair or bed -E884.2
+ Other falls from one level to another -E884.9
+"Fall on same level from slipping, tripping, or stumbling -E885"
+"Fall on same level from collision, pushing, or shoving, by or with other person -E886"
+ In sports -E886.0
+ Other and unspecified -E886.9
+"Fracture, cause unspecified -E887"
+Other and unspecified falls -E888
+ Accidents caused by fire and flames -E890-E899
+Conflagration in private dwelling -E890
+ Explosion caused by conflagration -E890.0
+ Fumes from combustion of polyvinylchloride -PVC and similar material in conflagration -E890.1
+ Other smoke and fumes from conflagration -E890.2
+ Burning caused by conflagration -E890.3
+ Other accident resulting from conflagration -E890.8
+ Unspecified -E890.9
+Conflagration in other and unspecified building or structure -E891
+ Explosion caused by conflagration -E891.0
+ Fumes from combustion of polyvinylchloride -PVC and similar material in conflagration -E891.1
+ Other smoke and fumes from conflagration -E891.2
+ Burning caused by conflagration -E891.3
+ Other accident resulting from conflagration -E891.8
+ Unspecified -E891.9
+Conflagration not in building or structure -E892
+Accident caused by ignition of clothing -E893
+ From controlled fire in private dwelling -E893.0
+ From controlled fire in other building or structure -E893.1
+ From controlled fire not in building or structure -E893.2
+ From other sources -E893.8
+ Unspecified -E893.9
+Ignition of highly inflammable material -E894
+Accident caused by controlled fire in private dwelling -E895
+Accident caused by controlled fire in other and unspecified building or structure -E896
+Accident caused by controlled fire not in building or structure -E897
+Accident caused by other specified fire and flames -E898
+ Burning bedclothes -E898.0
+ Other -E898.1
+Accident caused by unspecified fire -E899
+ Accidents due to natural and environmental factors -E900-E909
+Excessive heat -E900
+ Due to weather conditions -E900.0
+ Of manmade origin -E900.1
+ Of unspecified origin -E900.9
+Excessive cold -E901
+ Due to weather conditions -E901.0
+ Of manmade origin -E901.1
+ Other -E901.8
+ Of unspecified origin -E901.9
+High and low air pressure and changes in air pressure -E902
+ Residence or prolonged visit at high altitude -E902.0
+ In aircraft -E902.1
+ Due to diving -E902.2
+ Due to other specified causes -E902.8
+ Unspecified -E902.9
+Travel and motion -E903
+"Hunger, thirst, exposure, neglect -E904"
+ Abandonment or neglect of infants and helpless persons -E904.0
+ Lack of food -E904.1
+ Lack of water -E904.2
+" Exposure -to weather conditions, not elsewhere classified -E904.3"
+" Privation, unqualified -E904.9"
+Venomous animals and plants as the cause of poisoning and toxic reactions -E905
+ Venomous snakes and lizards -E905.0
+ Venomous spiders -E905.1
+ Scorpion -E905.2
+" Hornets, wasps, and bees -E905.3"
+ Centipede and venomous millipede -tropical -E905.4
+ Other venomous arthropods -E905.5
+ Venomous marine animals and plants -E905.6
+ Poisoning and toxic reactions caused by other plants -E905.7
+ Other specified -E905.8
+ Unspecified -E905.9
+Other injury caused by animals -E906
+ Dog bite -E906.0
+ Rat bite -E906.1
+ Bite of nonvenomous snakes and lizards -E906.2
+ Bite of other animal except arthropod -E906.3
+ Bite of nonvenomous arthropod -E906.4
+ Other specified injury caused by animal -E906.8
+ Unspecified -E906.9
+Lightning -E907
+Cataclysmic storms and floods resulting from storms -E908
+Cataclysmic earth surface movements and eruptions -E909
+" Accidents caused by submersion, suffocation, and foreign bodies -E910-E915"
+Accidental drowning and submersion -E910
+ While water skiing -E910.0
+ While engaged in other sport or recreational activity with diving equipment -E910.1
+ While engaged in other sport or recreational activity without diving equipment -E910.2
+ While swimming or diving for purposes other than recreation or sport -E910.3
+ In bathtub -E910.4
+ Other -E910.8
+ Unspecified -E910.9
+Inhalation and ingestion of food causing obstruction of respiratory tract or suffocation -E911
 Inhalation and ingestion of other object causing obstruction of respiratory tract or suffocation 
-_1E912
-Accidental mechanical suffocation _1E913
- In bed or cradle _1E913.0
- By plastic bag _1E913.1
- Due to lack of air -in closed place _1E913.2
- By falling earth or other substance _1E913.3
- Other specified means _1E913.8
- Unspecified _1E913.9
-Foreign body accidentally entering eye and adnexa _1E914
-Foreign body accidentally entering other orifice _1E915
- Other accidents _1E916_1E929
-Struck accidentally by falling object _1E916
-Striking against or struck accidentally by objects or persons _1E917
- In sports _1E917.0
-" Caused by a crowd, by collective fear or panic _1E917.1"
- In running water _1E917.2
- Other _1E917.9
-Caught accidentally in or between objects _1E918
-Accidents caused by machinery _1E919
- Agricultural machines _1E919.0
- Mining and earth-drilling machinery _1E919.1
- Lifting machines and appliances _1E919.2
- Metalworking machines _1E919.3
- Woodworking and forming machines _1E919.4
-" Prime movers, except electrical motors _1E919.5"
- Transmission machinery _1E919.6
-" Earth moving, scraping, and other excavating machines _1E919.7"
- Other _1E919.8
- Unspecified _1E919.9
-Accidents caused by cutting and piercing instruments or objects _1E920
- Powered lawn mower _1E920.0
- Other powered hand tools _1E920.1
- Powered household appliances and implements _1E920.2
-" Knives, swords, and daggers _1E920.3"
- Other hand tools and implements _1E920.4
- Other _1E920.8
- Unspecified _1E920.9
-Accident caused by explosion of pressure vessel _1E921
- Boilers _1E921.0
- Gas cylinders _1E921.1
- Other _1E921.8
- Unspecified _1E921.9
-Accident caused by firearm missile _1E922
- Handgun _1E922.0
- Shotgun -automatic _1E922.1
- Hunting rifle _1E922.2
- Military firearms _1E922.3
- Other _1E922.8
- Unspecified _1E922.9
-Accident caused by explosive material _1E923
- Fireworks _1E923.0
- Blasting materials _1E923.1
- Explosive gases _1E923.2
- Other _1E923.8
- Unspecified _1E923.9
-"Accident caused by hot substance or object, caustic or corrosive material, and steam _1E924"
-" Hot liquids and vapors, including steam _1E924.0"
- Caustic and corrosive substances _1E924.1
- Other _1E924.8
- Unspecified _1E924.9
-Accident caused by electric current _1E925
- Domestic wiring and apppliances _1E925.0
-" Electric power generating plants, distribution stations, transmission lines _1E925.1"
-" Industrial wiring, appliances, and electrical machinery _1E925.2"
- Other _1E925.8
- Unspecified _1E925.9
-Exposure to radiation _1E926
- Radiofrequency radiation _1E926.0
- Infrared heaters and lamps _1E926.1
- Visible and ultraviolet light sources _1E926.2
- X-rays and other electromagnetic ionizing radiation _1E926.3
- Lasers _1E926.4
- Radioactive isotopes _1E926.5
- Other specified _1E926.8
- Unspecified _1E926.9
-Overexertion and strenuous movements _1E927
-Other and unspecified environmental and accidental causes _1E928
- Prolonged stay in weightless environment _1E928.0
- Exposure to noise _1E928.1
- Vibration _1E928.2
- Other _1E928.8
- Unspecified accidents _1E928.9
-Late effects of accidental injury _1E929
- Late effects of motor vehicle accident _1E929.0
- Late effects of other transport accident _1E929.1
- Late effects of accidental poisoning _1E929.2
- Late effects of accidental fall _1E929.3
- Late effects of accident caused by fire _1E929.4
- Late effects of accident due to natural and environmental factors _1E929.5
- Late effects of other accidents _1E929.8
- Late effects of unspecified accident _1E929.9
+-E912
+Accidental mechanical suffocation -E913
+ In bed or cradle -E913.0
+ By plastic bag -E913.1
+ Due to lack of air -in closed place -E913.2
+ By falling earth or other substance -E913.3
+ Other specified means -E913.8
+ Unspecified -E913.9
+Foreign body accidentally entering eye and adnexa -E914
+Foreign body accidentally entering other orifice -E915
+ Other accidents -E916-E929
+Struck accidentally by falling object -E916
+Striking against or struck accidentally by objects or persons -E917
+ In sports -E917.0
+" Caused by a crowd, by collective fear or panic -E917.1"
+ In running water -E917.2
+ Other -E917.9
+Caught accidentally in or between objects -E918
+Accidents caused by machinery -E919
+ Agricultural machines -E919.0
+ Mining and earth-drilling machinery -E919.1
+ Lifting machines and appliances -E919.2
+ Metalworking machines -E919.3
+ Woodworking and forming machines -E919.4
+" Prime movers, except electrical motors -E919.5"
+ Transmission machinery -E919.6
+" Earth moving, scraping, and other excavating machines -E919.7"
+ Other -E919.8
+ Unspecified -E919.9
+Accidents caused by cutting and piercing instruments or objects -E920
+ Powered lawn mower -E920.0
+ Other powered hand tools -E920.1
+ Powered household appliances and implements -E920.2
+" Knives, swords, and daggers -E920.3"
+ Other hand tools and implements -E920.4
+ Other -E920.8
+ Unspecified -E920.9
+Accident caused by explosion of pressure vessel -E921
+ Boilers -E921.0
+ Gas cylinders -E921.1
+ Other -E921.8
+ Unspecified -E921.9
+Accident caused by firearm missile -E922
+ Handgun -E922.0
+ Shotgun -automatic -E922.1
+ Hunting rifle -E922.2
+ Military firearms -E922.3
+ Other -E922.8
+ Unspecified -E922.9
+Accident caused by explosive material -E923
+ Fireworks -E923.0
+ Blasting materials -E923.1
+ Explosive gases -E923.2
+ Other -E923.8
+ Unspecified -E923.9
+"Accident caused by hot substance or object, caustic or corrosive material, and steam -E924"
+" Hot liquids and vapors, including steam -E924.0"
+ Caustic and corrosive substances -E924.1
+ Other -E924.8
+ Unspecified -E924.9
+Accident caused by electric current -E925
+ Domestic wiring and apppliances -E925.0
+" Electric power generating plants, distribution stations, transmission lines -E925.1"
+" Industrial wiring, appliances, and electrical machinery -E925.2"
+ Other -E925.8
+ Unspecified -E925.9
+Exposure to radiation -E926
+ Radiofrequency radiation -E926.0
+ Infrared heaters and lamps -E926.1
+ Visible and ultraviolet light sources -E926.2
+ X-rays and other electromagnetic ionizing radiation -E926.3
+ Lasers -E926.4
+ Radioactive isotopes -E926.5
+ Other specified -E926.8
+ Unspecified -E926.9
+Overexertion and strenuous movements -E927
+Other and unspecified environmental and accidental causes -E928
+ Prolonged stay in weightless environment -E928.0
+ Exposure to noise -E928.1
+ Vibration -E928.2
+ Other -E928.8
+ Unspecified accidents -E928.9
+Late effects of accidental injury -E929
+ Late effects of motor vehicle accident -E929.0
+ Late effects of other transport accident -E929.1
+ Late effects of accidental poisoning -E929.2
+ Late effects of accidental fall -E929.3
+ Late effects of accident caused by fire -E929.4
+ Late effects of accident due to natural and environmental factors -E929.5
+ Late effects of other accidents -E929.8
+ Late effects of unspecified accident -E929.9
 " Drugs, medicaments, and biological substances causing adverse effects in therapeutic use "
-_1E930_1E949
-Antibiotics _1E930
- Penicillins _1E930.0
- Antifungal antibiotics _1E930.1
- Chloramphenicol group _1E930.2
- Erythromycin and other macrolides _1E930.3
- Tetracycline group _1E930.4
- Cefalosporin group _1E930.5
- Antimycobacterial antibiotics _1E930.6
- Antineoplastic antibiotics _1E930.7
- Other specified antibiotics _1E930.8
- Unspecified _1E930.9
-Other anti-infectives _1E931
- Sulfonamides _1E931.0
- Arsenical anti-infectives _1E931.1
- Heavy metal anti-infectives _1E931.2
- Quinoline and hydroxyquinoline derivatives _1E931.3
- Antimalarials and drugs acting on other blood protozoa _1E931.4
- Other antiprotozoal drugs _1E931.5
- Anthelminthics _1E931.6
- Antiviral drugs _1E931.7
- Other antimycobacterial drugs _1E931.8
- Other and unspecified anti-infectives _1E931.9
-Hormones and synthetic substitutes _1E932
- Adrenal cortical steroids _1E932.0
- Androgens and anabolic congeners _1E932.1
- Ovarian hormones and synthetic substitutes _1E932.2
- Insulins and antidiabetic agents _1E932.3
- Anterior pituitary hormones _1E932.4
- Posterior pituitary hormones _1E932.5
- Parathyroid and parathyroid derivatives _1E932.6
- Thyroid and thyroid derivatives _1E932.7
- Antithyroid agents _1E932.8
- Other and unspecified hormones and synthetic substitutes _1E932.9
-Primarily systemic agents _1E933
- Antiallergic and antiemetic drugs _1E933.0
- Antineoplastic and immunosuppressive drugs _1E933.1
- Acidifying agents _1E933.2
- Alkalizing agents _1E933.3
-" Enzymes, not elsewhere classified _1E933.4"
-" Vitamins, not elsewhere classified _1E933.5"
-" Other systemic agents, not elsewhere classified _1E933.8"
- Unspecified _1E933.9
-Agents primarily affecting blood constituents _1E934
- Iron and its compounds _1E934.0
- Liver preparations and other antianemic agents _1E934.1
- Anticoagulants _1E934.2
- Vitamin K -phytomenadione _1E934.3
- Fibrinolysis-affecting drugs _1E934.4
- Anticoagulant antagonists and other coagulants _1E934.5
- Gamma globulin _1E934.6
- Natural blood and blood products _1E934.7
- Other _1E934.8
- Unspecified _1E934.9
-"Analgesics, antipyretics, and antirheumatics _1E935"
- Opiates and related narcotics _1E935.0
- Salicylates _1E935.1
-" Aromatic analgesics, not elsewhere classified _1E935.2"
- Pyrazole derivatives _1E935.3
- Antirheumatics -antiphlogistics _1E935.4
- Other non-narcotic analgesics _1E935.5
- Other _1E935.8
- Unspecified _1E935.9
-Anticonvulsants and anti-Parkinsonism drugs _1E936
- Oxazolidine derivatives _1E936.0
- Hydantoin derivatives _1E936.1
- Succinimides _1E936.2
- Other and unspecified anticonvulsants _1E936.3
- Anti-Parkinsonism drugs _1E936.4
-Sedatives and hypnotics _1E937
- Barbiturates _1E937.0
- Chloral hydrate group _1E937.1
- Paraldehyde _1E937.2
- Bromine compounds _1E937.3
- Methaqualone compounds _1E937.4
- Glutethimide group _1E937.5
-" Mixed sedatives, not elsewhere classified _1E937.6"
- Other _1E937.8
- Unspecified _1E937.9
-Other central nervous system depressants _1E938
- Central nervous system muscle-tone depressants _1E938.0
- Halothane _1E938.1
- Other gaseous anesthetics _1E938.2
- Intravenous anesthetics _1E938.3
- Other and unspecified general anesthetics _1E938.4
- Surface and infiltration anesthetics _1E938.5
- Peripheral nerve- and plexus-blocking anesthetics _1E938.6
- Spinal anesthetics _1E938.7
- Other and unspecified local anesthetics _1E938.9
-Psychotropic agents _1E939
- Antidepressants _1E939.0
- Phenothiazine-based tranquilizers _1E939.1
- Butyrophenone-based tranquilizers _1E939.2
-" Other antipsychotics, neuroleptics, and major tranquilizers _1E939.3"
- Benzodiazepine-based tranquilizers _1E939.4
- Other tranquilizers _1E939.5
- Psychodysleptics -hallucinogens _1E939.6
- Psychostimulants _1E939.7
- Other psychotropic agents _1E939.8
- Unspecified _1E939.9
-Central nervous system stimulants _1E940
- Analeptics _1E940.0
- Opiate antagonists _1E940.1
- Other _1E940.8
- Unspecified _1E940.9
-Drugs primarily affecting the autonomic nervous system _1E941
- Parasympathomimetics -cholinergics _1E941.0
- Parasympatholytics -anticholinergics and antimuscarinics and spasmolytics _1E941.1
- Sympathomimetics -adrenergics _1E941.2
- Sympatholytics -antiadrenergics _1E941.3
- Unspecified _1E941.9
-Agents primarily affecting the cardiovascular system _1E942
- Cardiac rhythm regulators _1E942.0
- Cardiotonic glycosides and drugs of similar action _1E942.1
- Antilipemic and antiarteriosclerotic drugs _1E942.2
- Ganglion-blocking agents _1E942.3
- Coronary vasodilators _1E942.4
- Other vasodilators _1E942.5
- Other antihypertensive agents _1E942.6
-" Antivaricose drugs, including sclerosing agents _1E942.7"
- Capillary-active drugs _1E942.8
- Other and unspecified _1E942.9
-Agents primarily affecting gastrointestinal system _1E943
- Antacids and anti-gastric-secretion drugs _1E943.0
- Irritant cathartics _1E943.1
- Emollient cathartics _1E943.2
-" Other cathartics, including intestinal atonia drugs _1E943.3"
- Digestants _1E943.4
- Antidiarrheal drugs _1E943.5
- Emetics _1E943.6
- Other _1E943.8
- Unspecified _1E943.9
-"Water, mineral, and uric acid metabolism drugs _1E944"
- Mercurial diuretics _1E944.0
- Purine derivative diuretics _1E944.1
- Carbonic acid anhydrase inhibitors _1E944.2
- Saluretics _1E944.3
- Other diuretics _1E944.4
-" Electrolytic, caloric, and water-balance agents _1E944.5"
-" Other mineral salts, not elsewhere classified _1E944.6"
- Uric acid metabolism drugs _1E944.7
-Agents primarily acting on the smooth and skeletal muscles and respiratory system _1E945
- Oxytocic agents _1E945.0
- Smooth muscle relaxants _1E945.1
- Skeletal muscle relaxants _1E945.2
- Other and unspecified drugs acting on muscles _1E945.3
- Antitussives _1E945.4
- Expectorants _1E945.5
- Anti-common-cold drugs _1E945.6
- Antiasthmatics _1E945.7
- Other and unspecified respiratory drugs _1E945.8
+-E930-E949
+Antibiotics -E930
+ Penicillins -E930.0
+ Antifungal antibiotics -E930.1
+ Chloramphenicol group -E930.2
+ Erythromycin and other macrolides -E930.3
+ Tetracycline group -E930.4
+ Cefalosporin group -E930.5
+ Antimycobacterial antibiotics -E930.6
+ Antineoplastic antibiotics -E930.7
+ Other specified antibiotics -E930.8
+ Unspecified -E930.9
+Other anti-infectives -E931
+ Sulfonamides -E931.0
+ Arsenical anti-infectives -E931.1
+ Heavy metal anti-infectives -E931.2
+ Quinoline and hydroxyquinoline derivatives -E931.3
+ Antimalarials and drugs acting on other blood protozoa -E931.4
+ Other antiprotozoal drugs -E931.5
+ Anthelminthics -E931.6
+ Antiviral drugs -E931.7
+ Other antimycobacterial drugs -E931.8
+ Other and unspecified anti-infectives -E931.9
+Hormones and synthetic substitutes -E932
+ Adrenal cortical steroids -E932.0
+ Androgens and anabolic congeners -E932.1
+ Ovarian hormones and synthetic substitutes -E932.2
+ Insulins and antidiabetic agents -E932.3
+ Anterior pituitary hormones -E932.4
+ Posterior pituitary hormones -E932.5
+ Parathyroid and parathyroid derivatives -E932.6
+ Thyroid and thyroid derivatives -E932.7
+ Antithyroid agents -E932.8
+ Other and unspecified hormones and synthetic substitutes -E932.9
+Primarily systemic agents -E933
+ Antiallergic and antiemetic drugs -E933.0
+ Antineoplastic and immunosuppressive drugs -E933.1
+ Acidifying agents -E933.2
+ Alkalizing agents -E933.3
+" Enzymes, not elsewhere classified -E933.4"
+" Vitamins, not elsewhere classified -E933.5"
+" Other systemic agents, not elsewhere classified -E933.8"
+ Unspecified -E933.9
+Agents primarily affecting blood constituents -E934
+ Iron and its compounds -E934.0
+ Liver preparations and other antianemic agents -E934.1
+ Anticoagulants -E934.2
+ Vitamin K -phytomenadione -E934.3
+ Fibrinolysis-affecting drugs -E934.4
+ Anticoagulant antagonists and other coagulants -E934.5
+ Gamma globulin -E934.6
+ Natural blood and blood products -E934.7
+ Other -E934.8
+ Unspecified -E934.9
+"Analgesics, antipyretics, and antirheumatics -E935"
+ Opiates and related narcotics -E935.0
+ Salicylates -E935.1
+" Aromatic analgesics, not elsewhere classified -E935.2"
+ Pyrazole derivatives -E935.3
+ Antirheumatics -antiphlogistics -E935.4
+ Other non-narcotic analgesics -E935.5
+ Other -E935.8
+ Unspecified -E935.9
+Anticonvulsants and anti-Parkinsonism drugs -E936
+ Oxazolidine derivatives -E936.0
+ Hydantoin derivatives -E936.1
+ Succinimides -E936.2
+ Other and unspecified anticonvulsants -E936.3
+ Anti-Parkinsonism drugs -E936.4
+Sedatives and hypnotics -E937
+ Barbiturates -E937.0
+ Chloral hydrate group -E937.1
+ Paraldehyde -E937.2
+ Bromine compounds -E937.3
+ Methaqualone compounds -E937.4
+ Glutethimide group -E937.5
+" Mixed sedatives, not elsewhere classified -E937.6"
+ Other -E937.8
+ Unspecified -E937.9
+Other central nervous system depressants -E938
+ Central nervous system muscle-tone depressants -E938.0
+ Halothane -E938.1
+ Other gaseous anesthetics -E938.2
+ Intravenous anesthetics -E938.3
+ Other and unspecified general anesthetics -E938.4
+ Surface and infiltration anesthetics -E938.5
+ Peripheral nerve- and plexus-blocking anesthetics -E938.6
+ Spinal anesthetics -E938.7
+ Other and unspecified local anesthetics -E938.9
+Psychotropic agents -E939
+ Antidepressants -E939.0
+ Phenothiazine-based tranquilizers -E939.1
+ Butyrophenone-based tranquilizers -E939.2
+" Other antipsychotics, neuroleptics, and major tranquilizers -E939.3"
+ Benzodiazepine-based tranquilizers -E939.4
+ Other tranquilizers -E939.5
+ Psychodysleptics -hallucinogens -E939.6
+ Psychostimulants -E939.7
+ Other psychotropic agents -E939.8
+ Unspecified -E939.9
+Central nervous system stimulants -E940
+ Analeptics -E940.0
+ Opiate antagonists -E940.1
+ Other -E940.8
+ Unspecified -E940.9
+Drugs primarily affecting the autonomic nervous system -E941
+ Parasympathomimetics -cholinergics -E941.0
+ Parasympatholytics -anticholinergics and antimuscarinics and spasmolytics -E941.1
+ Sympathomimetics -adrenergics -E941.2
+ Sympatholytics -antiadrenergics -E941.3
+ Unspecified -E941.9
+Agents primarily affecting the cardiovascular system -E942
+ Cardiac rhythm regulators -E942.0
+ Cardiotonic glycosides and drugs of similar action -E942.1
+ Antilipemic and antiarteriosclerotic drugs -E942.2
+ Ganglion-blocking agents -E942.3
+ Coronary vasodilators -E942.4
+ Other vasodilators -E942.5
+ Other antihypertensive agents -E942.6
+" Antivaricose drugs, including sclerosing agents -E942.7"
+ Capillary-active drugs -E942.8
+ Other and unspecified -E942.9
+Agents primarily affecting gastrointestinal system -E943
+ Antacids and anti-gastric-secretion drugs -E943.0
+ Irritant cathartics -E943.1
+ Emollient cathartics -E943.2
+" Other cathartics, including intestinal atonia drugs -E943.3"
+ Digestants -E943.4
+ Antidiarrheal drugs -E943.5
+ Emetics -E943.6
+ Other -E943.8
+ Unspecified -E943.9
+"Water, mineral, and uric acid metabolism drugs -E944"
+ Mercurial diuretics -E944.0
+ Purine derivative diuretics -E944.1
+ Carbonic acid anhydrase inhibitors -E944.2
+ Saluretics -E944.3
+ Other diuretics -E944.4
+" Electrolytic, caloric, and water-balance agents -E944.5"
+" Other mineral salts, not elsewhere classified -E944.6"
+ Uric acid metabolism drugs -E944.7
+Agents primarily acting on the smooth and skeletal muscles and respiratory system -E945
+ Oxytocic agents -E945.0
+ Smooth muscle relaxants -E945.1
+ Skeletal muscle relaxants -E945.2
+ Other and unspecified drugs acting on muscles -E945.3
+ Antitussives -E945.4
+ Expectorants -E945.5
+ Anti-common-cold drugs -E945.6
+ Antiasthmatics -E945.7
+ Other and unspecified respiratory drugs -E945.8
 "Agents primarily affecting skin and mucous membrane, ophthalmological, otorhinolaryngological,"
-and dental drugs _1E946
- Local anti-infectives and anti-inflammatory drugs _1E946.0
- Antipruritics _1E946.1
- Local astringents and local detergents _1E946.2
-" Emollients, demulcents, and protectants _1E946.3"
-" Keratolytics, keratoplastics, other hair treatment drugs and preparations _1E946.4"
- Eye anti-infectives and other eye drugs _1E946.5
-" Anti-infective and other drugs and preparations for ear, nose, and throat _1E946.6"
- Dental drugs topically applied _1E946.7
- Other _1E946.8
- Unspecified _1E946.9
-Other and unspecified drugs and medicaments _1E947
- Dietetics _1E947.0
- Lipotropic drugs _1E947.1
-" Antidotes and chelating agents, not elsewhere classified _1E947.2"
- Alcohol deterrents _1E947.3
- Pharmaceutical excipients _1E947.4
- Other drugs and medicaments _1E947.8
- Unspecified drug or medicament _1E947.9
-Bacterial vaccines _1E948
- BCG vaccine _1E948.0
- Typhoid and paratyphoid _1E948.1
- Cholera _1E948.2
- Plague _1E948.3
- Tetanus _1E948.4
- Diphtheria _1E948.5
-" Pertussis vaccine, including combinations with a pertussis component _1E948.6"
- Other and unspecified bacterial vaccines _1E948.8
-" Mixed bacterial vaccines, except combinations with a pertussis component _1E948.9"
-Other vaccines and biological substances _1E949
- Smallpox vaccine _1E949.0
- Rabies vaccine _1E949.1
- Typhus vaccine _1E949.2
- Yellow fever vaccine _1E949.3
- Measles vaccine _1E949.4
- Poliomyelitis vaccine _1E949.5
- Other and unspecified viral and rickettsial vaccines _1E949.6
-" Mixed viral-rickettsial and bacterial vaccines, except combinations with a pertussis component _1E949.7"
- Other and unspecified vaccines and biological substances _1E949.9
- Suicide _1E950_1E959
-Suicide by solid or liquid substances _1E950
-" Analgesics, antipyretics, and antirheumatics _1E950.0"
- Barbiturates _1E950.1
- Other sedatives and hypnotics _1E950.2
- Tranquilizers and other psychotropic agents _1E950.3
- Other specified drugs and medicaments _1E950.4
- Unspecified drug or medicament _1E950.5
+and dental drugs -E946
+ Local anti-infectives and anti-inflammatory drugs -E946.0
+ Antipruritics -E946.1
+ Local astringents and local detergents -E946.2
+" Emollients, demulcents, and protectants -E946.3"
+" Keratolytics, keratoplastics, other hair treatment drugs and preparations -E946.4"
+ Eye anti-infectives and other eye drugs -E946.5
+" Anti-infective and other drugs and preparations for ear, nose, and throat -E946.6"
+ Dental drugs topically applied -E946.7
+ Other -E946.8
+ Unspecified -E946.9
+Other and unspecified drugs and medicaments -E947
+ Dietetics -E947.0
+ Lipotropic drugs -E947.1
+" Antidotes and chelating agents, not elsewhere classified -E947.2"
+ Alcohol deterrents -E947.3
+ Pharmaceutical excipients -E947.4
+ Other drugs and medicaments -E947.8
+ Unspecified drug or medicament -E947.9
+Bacterial vaccines -E948
+ BCG vaccine -E948.0
+ Typhoid and paratyphoid -E948.1
+ Cholera -E948.2
+ Plague -E948.3
+ Tetanus -E948.4
+ Diphtheria -E948.5
+" Pertussis vaccine, including combinations with a pertussis component -E948.6"
+ Other and unspecified bacterial vaccines -E948.8
+" Mixed bacterial vaccines, except combinations with a pertussis component -E948.9"
+Other vaccines and biological substances -E949
+ Smallpox vaccine -E949.0
+ Rabies vaccine -E949.1
+ Typhus vaccine -E949.2
+ Yellow fever vaccine -E949.3
+ Measles vaccine -E949.4
+ Poliomyelitis vaccine -E949.5
+ Other and unspecified viral and rickettsial vaccines -E949.6
+" Mixed viral-rickettsial and bacterial vaccines, except combinations with a pertussis component -E949.7"
+ Other and unspecified vaccines and biological substances -E949.9
+ Suicide -E950-E959
+Suicide by solid or liquid substances -E950
+" Analgesics, antipyretics, and antirheumatics -E950.0"
+ Barbiturates -E950.1
+ Other sedatives and hypnotics -E950.2
+ Tranquilizers and other psychotropic agents -E950.3
+ Other specified drugs and medicaments -E950.4
+ Unspecified drug or medicament -E950.5
  Agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers 
-_1E950.6
- Corrosive and caustic substances _1E950.7
- Arsenic and its compounds _1E950.8
- Other and unspecified solid and liquid substances _1E950.9
-Suicide by gases in domestic use _1E951
- Gas distributed by pipeline _1E951.0
- Liquefied petroleum gas distributed in mobile containers _1E951.1
- Other utility gas _1E951.8
-Suicide by other gases and vapors _1E952
- Motor vehicle exhaust gas _1E952.0
- Other carbon monoxide _1E952.1
- Other specified gases and vapors _1E952.8
- Unspecified gases and vapors _1E952.9
-"Suicide by hanging, strangulation, and suffocation _1E953"
- Hanging _1E953.0
- Suffocation by plastic bag _1E953.1
- Other specified means _1E953.8
- Unspecified means _1E953.9
-Suicide by submersion -drowning _1E954
-Suicide by firearms and explosives _1E955
- Handgun _1E955.0
- Shotgun _1E955.1
- Hunting rifle _1E955.2
- Military firearms _1E955.3
- Other and unspecified firearms _1E955.4
- Explosives _1E955.5
- Unspecified _1E955.9
-Suicide by cutting and piercing instruments _1E956
-Suicide by jumping from high place _1E957
- Residential premises _1E957.0
- Other manmade structures _1E957.1
- Natural sites _1E957.2
- Unspecified _1E957.9
-Suicide by other and unspecified means _1E958
- Jumping or lying before moving object _1E958.0
-" Burns, fire _1E958.1"
- Scald _1E958.2
- Extremes of cold _1E958.3
- Electrocution _1E958.4
- Crashing of motor vehicle _1E958.5
- Crashing of aircraft _1E958.6
-" Caustic substances, except poisoning _1E958.7"
- Other specified means _1E958.8
- Unspecified means _1E958.9
-Late effects of self-inflicted injury _1E959
- Homicide _1E960_1E969
-" Fight, brawl, rape _1E960"
- Unarmed fight or brawl _1E960.0
- Rape _1E960.1
-"Assault by corrosive or caustic substance, except poisoning _1E961"
-Assault by poisoning _1E962
- Drugs and medicaments _1E962.0
- Other solid and liquid substances _1E962.1
- Other gases and vapors _1E962.2
- Unspecified poisoning _1E962.9
-Assault by hanging and strangulation _1E963
-Assault by submersion -drowning _1E964
-Assault by firearms and explosives _1E965
- Handgun _1E965.0
- Shotgun _1E965.1
- Hunting rifle _1E965.2
- Military firearms _1E965.3
- Other and unspecified firearms _1E965.4
- Antipersonnel bomb _1E965.5
- Petrol bomb _1E965.6
- Letter bomb _1E965.7
- Other specified explosive _1E965.8
- Unspecified explosive _1E965.9
-Assault by cutting and piercing instrument _1E966
-Child battering and other maltreatment _1E967
- By parent _1E967.0
- By other specified person _1E967.1
- By unspecified person _1E967.9
-Assault by other and unspecified means _1E968
- Fire _1E968.0
- Pushing from high place _1E968.1
- Striking by blunt or thrown object _1E968.2
- Hot liquid _1E968.3
- Criminal neglect _1E968.4
- Other specified means _1E968.8
- Unspecified means _1E968.9
-Late effects of injury purposely inflicted by other person _1E969
- Legal intervention _1E970_1E978
-Injury due to legal intervention by firearms _1E970
-Injury due to legal intervention by explosives _1E971
-Injury due to legal intervention by gas _1E972
-Injury due to legal intervention by blunt object _1E973
-Injury due to legal intervention by cutting and piercing instruments _1E974
-Injury due to legal intervention by other specified means _1E975
-Injury due to legal intervention by unspecified means _1E976
-Late effects of injuries due to legal intervention _1E977
-Legal execution _1E978
- Injury undetermined whether accidentally or purposely inflicted _1E980_1E989
+-E950.6
+ Corrosive and caustic substances -E950.7
+ Arsenic and its compounds -E950.8
+ Other and unspecified solid and liquid substances -E950.9
+Suicide by gases in domestic use -E951
+ Gas distributed by pipeline -E951.0
+ Liquefied petroleum gas distributed in mobile containers -E951.1
+ Other utility gas -E951.8
+Suicide by other gases and vapors -E952
+ Motor vehicle exhaust gas -E952.0
+ Other carbon monoxide -E952.1
+ Other specified gases and vapors -E952.8
+ Unspecified gases and vapors -E952.9
+"Suicide by hanging, strangulation, and suffocation -E953"
+ Hanging -E953.0
+ Suffocation by plastic bag -E953.1
+ Other specified means -E953.8
+ Unspecified means -E953.9
+Suicide by submersion -drowning -E954
+Suicide by firearms and explosives -E955
+ Handgun -E955.0
+ Shotgun -E955.1
+ Hunting rifle -E955.2
+ Military firearms -E955.3
+ Other and unspecified firearms -E955.4
+ Explosives -E955.5
+ Unspecified -E955.9
+Suicide by cutting and piercing instruments -E956
+Suicide by jumping from high place -E957
+ Residential premises -E957.0
+ Other manmade structures -E957.1
+ Natural sites -E957.2
+ Unspecified -E957.9
+Suicide by other and unspecified means -E958
+ Jumping or lying before moving object -E958.0
+" Burns, fire -E958.1"
+ Scald -E958.2
+ Extremes of cold -E958.3
+ Electrocution -E958.4
+ Crashing of motor vehicle -E958.5
+ Crashing of aircraft -E958.6
+" Caustic substances, except poisoning -E958.7"
+ Other specified means -E958.8
+ Unspecified means -E958.9
+Late effects of self-inflicted injury -E959
+ Homicide -E960-E969
+" Fight, brawl, rape -E960"
+ Unarmed fight or brawl -E960.0
+ Rape -E960.1
+"Assault by corrosive or caustic substance, except poisoning -E961"
+Assault by poisoning -E962
+ Drugs and medicaments -E962.0
+ Other solid and liquid substances -E962.1
+ Other gases and vapors -E962.2
+ Unspecified poisoning -E962.9
+Assault by hanging and strangulation -E963
+Assault by submersion -drowning -E964
+Assault by firearms and explosives -E965
+ Handgun -E965.0
+ Shotgun -E965.1
+ Hunting rifle -E965.2
+ Military firearms -E965.3
+ Other and unspecified firearms -E965.4
+ Antipersonnel bomb -E965.5
+ Petrol bomb -E965.6
+ Letter bomb -E965.7
+ Other specified explosive -E965.8
+ Unspecified explosive -E965.9
+Assault by cutting and piercing instrument -E966
+Child battering and other maltreatment -E967
+ By parent -E967.0
+ By other specified person -E967.1
+ By unspecified person -E967.9
+Assault by other and unspecified means -E968
+ Fire -E968.0
+ Pushing from high place -E968.1
+ Striking by blunt or thrown object -E968.2
+ Hot liquid -E968.3
+ Criminal neglect -E968.4
+ Other specified means -E968.8
+ Unspecified means -E968.9
+Late effects of injury purposely inflicted by other person -E969
+ Legal intervention -E970-E978
+Injury due to legal intervention by firearms -E970
+Injury due to legal intervention by explosives -E971
+Injury due to legal intervention by gas -E972
+Injury due to legal intervention by blunt object -E973
+Injury due to legal intervention by cutting and piercing instruments -E974
+Injury due to legal intervention by other specified means -E975
+Injury due to legal intervention by unspecified means -E976
+Late effects of injuries due to legal intervention -E977
+Legal execution -E978
+ Injury undetermined whether accidentally or purposely inflicted -E980-E989
 "Poisoning by solid or liquid substances, undetermined whether accidentally or purposely inflicted "
-_1E980
-" Analgesics, antipyretics, and antirheumatics _1E980.0"
- Barbiturates _1E980.1
- Other sedatives and hypnotics _1E980.2
- Tranquilizers and other psychotropic agents _1E980.3
- Other specified drugs and medicaments _1E980.4
- Unspecified drug or medicament _1E980.5
- Corrosive and caustic substances _1E980.6
+-E980
+" Analgesics, antipyretics, and antirheumatics -E980.0"
+ Barbiturates -E980.1
+ Other sedatives and hypnotics -E980.2
+ Tranquilizers and other psychotropic agents -E980.3
+ Other specified drugs and medicaments -E980.4
+ Unspecified drug or medicament -E980.5
+ Corrosive and caustic substances -E980.6
  Agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers 
-_1E980.7
- Arsenic and its compounds _1E980.8
- Other and unspecified solid and liquid substances _1E980.9
+-E980.7
+ Arsenic and its compounds -E980.8
+ Other and unspecified solid and liquid substances -E980.9
 "Poisoning by gases in domestic use, undetermined whether accidentally or purposely inflicted "
-_1E981
- Gas distributed by pipeline _1E981.0
- Liquefied petroleum gas distributed in mobile containers _1E981.1
- Other utility gas _1E981.8
-"Poisoning by other gases, undetermined whether accidentally or purposely inflicted _1E982"
- Motor vehicle exhaust gas _1E982.0
- Other carbon monoxide _1E982.1
- Other specified gases and vapors _1E982.8
- Unspecified gases and vapors _1E982.9
+-E981
+ Gas distributed by pipeline -E981.0
+ Liquefied petroleum gas distributed in mobile containers -E981.1
+ Other utility gas -E981.8
+"Poisoning by other gases, undetermined whether accidentally or purposely inflicted -E982"
+ Motor vehicle exhaust gas -E982.0
+ Other carbon monoxide -E982.1
+ Other specified gases and vapors -E982.8
+ Unspecified gases and vapors -E982.9
 "Hanging, strangulation, or suffocation, undetermined whether accidentally or purposely inflicted "
-_1E983
- Hanging _1E983.0
- Suffocation by plastic bag _1E983.1
- Other specified means _1E983.8
- Unspecified means _1E983.9
-"Submersion -drowning, undetermined whether accidentally or purposely inflicted _1E984"
+-E983
+ Hanging -E983.0
+ Suffocation by plastic bag -E983.1
+ Other specified means -E983.8
+ Unspecified means -E983.9
+"Submersion -drowning, undetermined whether accidentally or purposely inflicted -E984"
 "Injury by firearms and explosives, undetermined whether accidentally or purposely inflicted "
-_1E985
- Handgun _1E985.0
- Shotgun _1E985.1
- Hunting rifle _1E985.2
- Military firearms _1E985.3
- Other and unspecified firearms _1E985.4
- Explosives _1E985.5
+-E985
+ Handgun -E985.0
+ Shotgun -E985.1
+ Hunting rifle -E985.2
+ Military firearms -E985.3
+ Other and unspecified firearms -E985.4
+ Explosives -E985.5
 "Injury by cutting and piercing instruments, undetermined whether accidentally or purposely"
-inflicted _1E986
-"Falling from high place, undetermined whether accidentally or purposely inflicted _1E987"
- Residential premises _1E987.0
- Other man-made structures _1E987.1
- Natural sites _1E987.2
- Unspecified _1E987.9
+inflicted -E986
+"Falling from high place, undetermined whether accidentally or purposely inflicted -E987"
+ Residential premises -E987.0
+ Other man-made structures -E987.1
+ Natural sites -E987.2
+ Unspecified -E987.9
 "Injury by other and unspecified means, undetermined whether accidentally or purposely inflicted "
-_1E988
- Jumping or lying before moving object _1E988.0
-" Burns, fire _1E988.1"
- Scald _1E988.2
- Extremes of cold _1E988.3
- Electrocution _1E988.4
- Crashing of motor vehicle _1E988.5
- Crashing of aircraft _1E988.6
-" Caustic substances, except poisoning _1E988.7"
- Other specified means _1E988.8
- Unspecified means _1E988.9
-"Late effects of injury, undetermined whether accidentally or purposely inflicted _1E989"
- Injury resulting from operations of war _1E990_1E999
-Injury due to war operations by fires and conflagrations _1E990
- From petrol bomb _1E990.0
- From other and unspecified sources _1E990.9
-Injury due to war operations by bullets and fragments _1E991
- Rubber bullets -rifle _1E991.0
- Pellets -rifle _1E991.1
- Other bullets _1E991.2
- Antipersonnel bomb -fragments _1E991.3
- Other and unspecified fragments _1E991.9
-Injury due to war operations by explosion of marine weapons _1E992
-Injury due to war operations by other explosion _1E993
-Injury due to war operations by destruction of aircraft _1E994
-Injury due to war operations by other and unspecified forms of conventional warfare _1E995
-Injury due to war operations by nuclear weapons _1E996
-Injury due to war operations by other forms of unconventional warfare _1E997
- Lasers _1E997.0
- Biological warfare _1E997.1
-" Gases, fumes, and chemicals _1E997.2"
- Other _1E997.8
- Unspecified _1E997.9
-Injury due to war operations but occurring after cessation of hostilities _1E998
-Late effects of injury due to war operations _1E999
+-E988
+ Jumping or lying before moving object -E988.0
+" Burns, fire -E988.1"
+ Scald -E988.2
+ Extremes of cold -E988.3
+ Electrocution -E988.4
+ Crashing of motor vehicle -E988.5
+ Crashing of aircraft -E988.6
+" Caustic substances, except poisoning -E988.7"
+ Other specified means -E988.8
+ Unspecified means -E988.9
+"Late effects of injury, undetermined whether accidentally or purposely inflicted -E989"
+ Injury resulting from operations of war -E990-E999
+Injury due to war operations by fires and conflagrations -E990
+ From petrol bomb -E990.0
+ From other and unspecified sources -E990.9
+Injury due to war operations by bullets and fragments -E991
+ Rubber bullets -rifle -E991.0
+ Pellets -rifle -E991.1
+ Other bullets -E991.2
+ Antipersonnel bomb -fragments -E991.3
+ Other and unspecified fragments -E991.9
+Injury due to war operations by explosion of marine weapons -E992
+Injury due to war operations by other explosion -E993
+Injury due to war operations by destruction of aircraft -E994
+Injury due to war operations by other and unspecified forms of conventional warfare -E995
+Injury due to war operations by nuclear weapons -E996
+Injury due to war operations by other forms of unconventional warfare -E997
+ Lasers -E997.0
+ Biological warfare -E997.1
+" Gases, fumes, and chemicals -E997.2"
+ Other -E997.8
+ Unspecified -E997.9
+Injury due to war operations but occurring after cessation of hostilities -E998
+Late effects of injury due to war operations -E999
