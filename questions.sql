@@ -19,7 +19,8 @@ WHERE e."diabtesMed" = 'Yes'
 GROUP BY p.age
 ORDER BY average_time_in_hospital ASC
 
--- Question #3: Which diagnosis group have the highest number of diagnosis based on gender
+-- Question #3: Which Diabetes diagnosis group have the highest number of diagnosis based on gender
+-- Anwsers:  Diabetes meliltus diagnosis have the highest number of Diabetes diagnosis for both male and female
 SELECT p.gender, d.diagnosis_name, COUNT(d.diagnosis_name) AS "count",
 RANK ()OVER(ORDER BY COUNT(d.diagnosis_name) DESC) 
 FROM encounter_table AS e
@@ -27,9 +28,9 @@ JOIN diagnosis_table AS d
 ON (e.diag_1 = d.diagnosis_code OR e.diag_2 = d.diagnosis_code OR e.diag_3 = d.diagnosis_code)
 JOIN patients AS p
 ON (e.patient_nbr = p.patient_nbr)
-WHERE d.diagnosis_name LIKE LOWER('Diabetes%')
+WHERE d.diagnosis_name LIKE ('Diabetes%')
 GROUP BY p.gender, d.diagnosis_name
- 
+
 -- Question #4: Which age group and race had the highest number of diagnosis and readmitted within 30 days?
 -- Answer:  70-80 Caucasian had the highest number of diagnosis and were readmitted within 30 days
 SELECT p.age, p.race, COUNT(d.diagnosis_name) AS "count",
@@ -41,4 +42,3 @@ JOIN patients AS p
 ON (e.patient_nbr = p.patient_nbr)
 WHERE e.readmitted = '<30'
 GROUP BY p.age, p.race
-
