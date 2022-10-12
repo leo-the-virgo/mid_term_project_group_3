@@ -1,11 +1,4 @@
 ICD TITLE & CODE CROSS REFERENCE FILE
-Cause-of-death statistics such as those shown in the following table are classified according to the
-Ninth Revision of the International Classification of Diseases -ICD-9. The table shows
-mortality statistics by ICD-9 codes at the most detailed listing of causes of death. The ICD Title &
-Code Cross Reference File below provides cause of death and associated ICD-9 codes -in
-parentheses providing readers a way to search causes of death of interest and identify the ICD-9
-codes shown in the table. 
- All causes
  Intestinal infectious diseases -001-009
 Cholera -001
  Due to Vibrio cholerae -001.0
@@ -247,8 +240,7 @@ Human immunodeficiency virus infection causing other specified conditions -*043
 Other human immunodeficiency virus infection -*044
  Causing specified acute infections -*044.0
 " Human immunodeficiency virus infection, unspecified -*044.9"
- Poliomyelitis and other non-arthropod-borne viral diseases of central nervous system 
--94
+ Poliomyelitis and other non-arthropod-borne viral diseases of central nervous system -94
 Acute poliomyelitis -045
  Acute paralytic poliomyelitis specified as bulbar -045.0
  Acute poliomyelitis with other paralysis -045.1
@@ -854,8 +846,7 @@ Malignant neoplasms of retroperitoneum and peritoneum -158
  Retroperitoneum -158.0
  Specified parts of peritoneum -158.8
 " Peritoneum, unspecified -158.9"
-Malignant neoplasms of other and ill-defined sites within the digestive organs and peritoneum 
--159
+Malignant neoplasms of other and ill-defined sites within the digestive organs and peritoneum -159
 " Intestinal tract, part unspecified -159.0"
 " Spleen, not elsewhere classified -159.1"
  Other -159.8
@@ -897,8 +888,7 @@ Malignant neoplasm of pleura -163
  Posterior mediastinum -164.3
  Other -164.8
 " Mediastinum, part unspecified -164.9"
-Malignant neoplasms of other and ill-defined sites within the respiratory system and intrathoracic
-organs -165
+Malignant neoplasms of other and ill-defined sites within the respiratory system and intrathoracic organs -165
 " Upper respiratory tract, part unspecified -165.0"
  Other -165.8
  Ill-defined sites within the respiratory system -165.9
@@ -1749,8 +1739,7 @@ Psychoses with origin specific to childhood -299
  Disintegrative psychosis -299.1
  Other -299.8
  Unspecified -299.9
-" Neurotic disorders, personality disorders, and other nonpsychotic mental disorders "
--616
+" Neurotic disorders, personality disorders, and other nonpsychotic mental disorders -616"
 Neurotic disorders -300
  Anxiety states -300.0
  Hysteria -300.1
@@ -2422,7 +2411,7 @@ Hypertensive heart and renal disease -404
  Specified as benign -404.1
  Not specified as malignant or benign -404.9
  Ischemic heart disease -410-414
-Acute myocardial 410
+Acute myocardial -410
 Other acute and subacute forms of ischemic heart disease -411
 Old myocardial infarction -412
 Angina pectoris -413
@@ -3569,8 +3558,7 @@ Prolonged pregnancy -645
  Liver disorders in pregnancy -646.7
  Other specified complications of pregnancy -646.8
  Unspecified complication of pregnancy -646.9
-"Infective and parasitic conditions in the mother classifiable elsewhere but complicating pregnancy,"
-"childbirth, and the puerperium -647"
+"Infective and parasitic conditions in the mother classifiable elsewhere but complicating pregnancy, childbirth, and the puerperium -647"
  Syphilis -647.0
  Gonorrhea -647.1
  Other venereal diseases -647.2
@@ -3580,8 +3568,7 @@ Prolonged pregnancy -645
  Other viral diseases -647.6
  Other specified infective and parasitic diseases -647.8
  Unspecified infection or infestation -647.9
-"Other current conditions in the mother classifiable elsewhere but complicating pregnancy,"
-"childbirth, and the puerperium -648"
+"Other current conditions in the mother classifiable elsewhere but complicating pregnancy, childbirth, and the puerperium -648"
  Diabetes mellitus -648.0
  Thyroid dysfunction -648.1
  Anemia -648.2
@@ -3592,8 +3579,7 @@ Prolonged pregnancy -645
 " Bone and joint disorders of back, pelvis, and lower limbs -648.7"
  Abnormal glucose tolerance -648.8
  Other -648.9
-" Normal delivery, and other indications for care in pregnancy, labor, and delivery "
--1309
+" Normal delivery, and other indications for care in pregnancy, labor, and delivery -1309"
 Delivery in a completely normal case -650
 Multiple gestation -651
 Malposition and malpresentation of fetus -652
@@ -3603,8 +3589,7 @@ Known or suspected fetal abnormality affecting management of mother -655
 Other fetal and placental problems affecting management of mother -656
 Polyhydramnios -657
 Other problems associated with amniotic cavity and membranes -658
-Other indications for care or intervention related to labor and delivery and not elsewhere
-classified -659
+Other indications for care or intervention related to labor and delivery and not elsewhere classified -659
  Complications occurring mainly in the course of labor and delivery -660-669
 Obstructed labor -660
 Abnormality of forces of labor -661
@@ -4841,8 +4826,7 @@ Accident involving spacecraft -E845
 " Ground crew, airline employee -E845.8"
  Other person -E845.9
  Vehicle accidents not elsewhere classifiable -E846-E848
-Accidents involving powered vehicles used solely within the buildings and premises of an
-industrial or commercial establishment -E846
+Accidents involving powered vehicles used solely within the buildings and premises of an industrial or commercial establishment -E846
 Accidents involving cable cars not running on rails -E847
 Accidents involving other vehicles not elsewhere classified -E848
 " Accidental poisoning by drugs, medicaments, and biologicals -E850-E858"
@@ -4896,8 +4880,7 @@ Accidental poisoning by other drugs -E858
  Agents primarily affecting gastrointestinal system -E858.4
 " Water, mineral, and uric acid metabolism drugs -E858.5"
  Agents primarily acting on the smooth and skeletal muscles and respiratory system -E858.6
-" Agents primarily affecting skin and mucous membrane, ophthalmological, otorhinolaryngological, and dental"
-drugs -E858.7
+" Agents primarily affecting skin and mucous membrane, ophthalmological, otorhinolaryngological, and dental drugs -E858.7"
  Other -E858.8
  Unspecified -E858.9
 " Accidental poisoning by other solid and liquid substances, gases, and vapors -E860-E869"
@@ -4909,8 +4892,7 @@ drugs -E858.7
  Fusel oil -E860.4
  Other -E860.8
  Unspecified -E860.9
-"Accidental poisoning by cleansing and polishing agents, disinfectants, paints, and varnishes "
--E861
+"Accidental poisoning by cleansing and polishing agents, disinfectants, paints, and varnishes -E859"
  Synthetic detergents and shampoos -E861.0
  Soap products -E861.1
  Polishes -E861.2
@@ -4919,16 +4901,14 @@ drugs -E858.7
  Lead paints -E861.5
  Other paints and varnishes -E861.6
  Unspecified -E861.9
-"Accidental poisoning by petroleum products, other solvents, and their vapors, not elsewhere"
-classified -E862
+"Accidental poisoning by petroleum products, other solvents, and their vapors, not elsewhere classified -E862"
  Petroleum solvents -E862.0
  Petroleum fuels and cleaners -E862.1
  Lubricating oils -E862.2
  Petroleum solids -E862.3
  Other solvents -E862.4
  Unspecified -E862.9
-Accidental poisoning by agricultural and horticultural chemical and pharmaceutical preparations
-other than plant foods and fertilizers -E863
+Accidental poisoning by agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers -E863
  Insecticides of organochlorine compounds -E863.0
  Insecticides of organophosphorus compounds -E863.1
  Carbamates -E863.2
@@ -5047,10 +5027,8 @@ Other and unspecified misadventures during medical care -E876
  Performance of inappropriate operation -E876.5
  Other specified misadventures -E876.8
  Unspecified misadventure -E876.9
- Surgical and medical procedures as the cause of abnormal reaction of patient or later
-"complication, without mention of misadventure at the time of procedure -E878-E879"
-"Surgical operation and other surgical procedures as the cause of abnormal reaction of patient, or of"
-"later complication, without mention of misadventure at the time of operation -E878"
+" Surgical and medical procedures as the cause of abnormal reaction of patient or later complication, without mention of misadventure at the time of procedure -E878-E879"
+"Surgical operation and other surgical procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at the time of operation -E878"
  Surgical operation with transplant of whole organ -E878.0
  Surgical operation with implant of artificial internal device -E878.1
 " Surgical operation with anastomosis, bypass, or graft with natural or artifical tissues used as implant -E878.2"
@@ -5060,8 +5038,7 @@ Other and unspecified misadventures during medical care -E876
  Removal of other organ -partial -total -E878.6
  Other -E878.8
  Unspecified -E878.9
-"Other procedures, without mention of misadventure at the time of procedure, as the cause of"
-"abnormal reaction of patient, or of later complication -E879"
+"Other procedures, without mention of misadventure at the time of procedure, as the cause of abnormal reaction of patient, or of later complication -E879"
  Cardiac catheterization -E879.0
  Kidney dialysis -E879.1
  Radiological procedure and radiotherapy -E879.2
@@ -5181,8 +5158,7 @@ Accidental drowning and submersion -E910
  Other -E910.8
  Unspecified -E910.9
 Inhalation and ingestion of food causing obstruction of respiratory tract or suffocation -E911
-Inhalation and ingestion of other object causing obstruction of respiratory tract or suffocation 
--E912
+Inhalation and ingestion of other object causing obstruction of respiratory tract or suffocation -E909
 Accidental mechanical suffocation -E913
  In bed or cradle -E913.0
  By plastic bag -E913.1
@@ -5273,8 +5249,7 @@ Late effects of accidental injury -E929
  Late effects of accident due to natural and environmental factors -E929.5
  Late effects of other accidents -E929.8
  Late effects of unspecified accident -E929.9
-" Drugs, medicaments, and biological substances causing adverse effects in therapeutic use "
--E930-E949
+" Drugs, medicaments, and biological substances causing adverse effects in therapeutic use -E927-E946"
 Antibiotics -E930
  Penicillins -E930.0
  Antifungal antibiotics -E930.1
@@ -5425,8 +5400,7 @@ Agents primarily acting on the smooth and skeletal muscles and respiratory syste
  Anti-common-cold drugs -E945.6
  Antiasthmatics -E945.7
  Other and unspecified respiratory drugs -E945.8
-"Agents primarily affecting skin and mucous membrane, ophthalmological, otorhinolaryngological,"
-and dental drugs -E946
+"Agents primarily affecting skin and mucous membrane, ophthalmological, otorhinolaryngological,and dental drugs -E946"
  Local anti-infectives and anti-inflammatory drugs -E946.0
  Antipruritics -E946.1
  Local astringents and local detergents -E946.2
@@ -5473,8 +5447,7 @@ Suicide by solid or liquid substances -E950
  Tranquilizers and other psychotropic agents -E950.3
  Other specified drugs and medicaments -E950.4
  Unspecified drug or medicament -E950.5
- Agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers 
--E950.6
+ Agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers -E950.6 
  Corrosive and caustic substances -E950.7
  Arsenic and its compounds -E950.8
  Other and unspecified solid and liquid substances -E950.9
@@ -5567,8 +5540,7 @@ Injury due to legal intervention by unspecified means -E976
 Late effects of injuries due to legal intervention -E977
 Legal execution -E978
  Injury undetermined whether accidentally or purposely inflicted -E980-E989
-"Poisoning by solid or liquid substances, undetermined whether accidentally or purposely inflicted "
--E980
+"Poisoning by solid or liquid substances, undetermined whether accidentally or purposely inflicted -E977"
 " Analgesics, antipyretics, and antirheumatics -E980.0"
  Barbiturates -E980.1
  Other sedatives and hypnotics -E980.2
@@ -5576,12 +5548,10 @@ Legal execution -E978
  Other specified drugs and medicaments -E980.4
  Unspecified drug or medicament -E980.5
  Corrosive and caustic substances -E980.6
- Agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers 
--E980.7
+ Agricultural and horticultural chemical and pharmaceutical preparations other than plant foods and fertilizers -E980.7
  Arsenic and its compounds -E980.8
  Other and unspecified solid and liquid substances -E980.9
-"Poisoning by gases in domestic use, undetermined whether accidentally or purposely inflicted "
--E981
+"Poisoning by gases in domestic use, undetermined whether accidentally or purposely inflicted -E978"
  Gas distributed by pipeline -E981.0
  Liquefied petroleum gas distributed in mobile containers -E981.1
  Other utility gas -E981.8
@@ -5590,30 +5560,26 @@ Legal execution -E978
  Other carbon monoxide -E982.1
  Other specified gases and vapors -E982.8
  Unspecified gases and vapors -E982.9
-"Hanging, strangulation, or suffocation, undetermined whether accidentally or purposely inflicted "
--E983
+"Hanging, strangulation, or suffocation, undetermined whether accidentally or purposely inflicted -E980"
  Hanging -E983.0
  Suffocation by plastic bag -E983.1
  Other specified means -E983.8
  Unspecified means -E983.9
 "Submersion -drowning, undetermined whether accidentally or purposely inflicted -E984"
-"Injury by firearms and explosives, undetermined whether accidentally or purposely inflicted "
--E985
+"Injury by firearms and explosives, undetermined whether accidentally or purposely inflicted -E982"
  Handgun -E985.0
  Shotgun -E985.1
  Hunting rifle -E985.2
  Military firearms -E985.3
  Other and unspecified firearms -E985.4
  Explosives -E985.5
-"Injury by cutting and piercing instruments, undetermined whether accidentally or purposely"
-inflicted -E986
+"Injury by cutting and piercing instruments, undetermined whether accidentally or purposely inflicted -E986"
 "Falling from high place, undetermined whether accidentally or purposely inflicted -E987"
  Residential premises -E987.0
  Other man-made structures -E987.1
  Natural sites -E987.2
  Unspecified -E987.9
-"Injury by other and unspecified means, undetermined whether accidentally or purposely inflicted "
--E988
+"Injury by other and unspecified means, undetermined whether accidentally or purposely inflicted -E985"
  Jumping or lying before moving object -E988.0
 " Burns, fire -E988.1"
  Scald -E988.2
