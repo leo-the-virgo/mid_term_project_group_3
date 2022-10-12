@@ -1,7 +1,7 @@
 #mid_term_project_group_3
 Title:  Data Extraction and Analysis of Diabetes Dataset
 
-Team: Our team will anwser the following questions on how diabetes affects different races and genders,and how diabetes is diagnosed in different ways.
+Team Members: 
   Mahederemariam Dagne 
   Roles:  (Team Lead, Data Scientist, Tester)
   Github:  https://github.com/MahiLu
@@ -18,10 +18,10 @@ Team: Our team will anwser the following questions on how diabetes affects diffe
   Roles:  (Data Scientist, Documentation)
   Github: https://github.com/tythegoat1
 
-Goal:  Our goal of this project is to clean a large dataset, anwser questions in the effects of diabetes and test the functionality of our code.  By performing these different analysis, patients with diabetes will have a better understanding on how it may be treated.
+Goal:  Our goal of this project is to clean a large dataset, anwser questions in the effects of diabetes and test the functionality of our code.  By performing these different analysis, patients with diabetes will have a better understanding on how it may be treated. 
 
 Project Description:  
-  Perform data extraction, loading, and cleanup using pandas. Build dataset locally using PGAdmin and Postgres and run local queries.  Migrate data to a cloud computing environment and run queries utilizing pyspark.  Run queries and compare times between local, pyspark, pyspark_parquet, and pyspark_parquet_cached.  Performed quality assurance testing, and answer the following research questions.
+  Perform data extraction, loading, and cleanup using pandas. Build dataset locally using PGAdmin and Postgres and run local queries.  Migrate data to a cloud computing environment and run queries utilizing pyspark.  Run queries and compare times between local, pyspark, pyspark_parquet, and pyspark_parquet_cached.  Performed quality assurance testing.  Our team answered the following questions on how diabetes affects different races and genders,and how diabetes is diagnosed in different ways.
    - Question 1: Which medication type had the least percentage of patients that were readmitted?
    - Question 2: Which Age group on diabetes medication spent the least amount of time in the hospital?
    - Question 3: Which Diabetes diagnosis group have the highest number of diagnosis based on gender
